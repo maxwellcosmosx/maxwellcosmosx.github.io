@@ -1,37 +1,63 @@
-// Table header list
-const header = ['ID','Item','Example','Explanation'];
+/*
+	Table Header
+*/
+	const header = ['ID','Item','Example','Explanation','Class'];
 
-// Default selected column index (0-based)
-// null / 0 ...
-const defaultHighlightedColumn = 0;
 
-// Number of rows per page
-const rowsPerPage = 300;
+/*
+	Highlighted Column
+*/
+	// Default Highlighted Column Index
+	const defaultHighlightedColumn = 4;
+	// null or 0,1,2...
 
-// Current page number
-let currentPage = 1;
+	// Current Highlighted Column Index
+	let highlightedColumn = defaultHighlightedColumn;
 
-// Currently selected category for filtering
-// null / 1 ...
-let currentCategory = 1;
 
-// Category
-// true / false 
-let noCategory = true;
+/*
+	Page
+*/
+	// Number of Rows For Per Page
+	const rowsPerPage = 300;
 
-// Currently highlighted column index
-let highlightedColumn = defaultHighlightedColumn;
+	// Default Page Number
+	let currentPage = 1;
 
-// Index of the column to add hyperlink (0-based)
-const hyperlinkColumnIndex = null;
 
-// URL for the hyperlink
-const hyperlinkURL = '';
+/*
+	Category
+*/
+	// Default Selected Category
+	let currentCategory = 0;
+	// null or 0,1,2...
 
-// Search query
-let searchQuery = '';
+	// Category Function
+	let noCategory = false;
+	// true or false 
 
-// Initialize category buttons, table headers, and table
+
+/*
+	Hyperlink
+*/
+	// The Column With Hyperlink
+	const hyperlinkColumnIndex = null;
+	// null or 0,1,2...
+
+	// URL for the hyperlink
+	const hyperlinkURL = '';
+
+
+/*
+	Search
+*/
+	// Default Search Query
+	let searchQuery = '';
+
+
+/*
+	Functions
+*/
 createCategoryButtons();
 createTableHeaders();
 displayTable(currentPage);

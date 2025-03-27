@@ -1,0 +1,136 @@
+**区别
+a few
+a bit
+a little
+a little bit
+
+**警告句-你会...的！
+you will...
+you could...
+
+
+**区别
+ensure
+assure
+insure
+
+
+**后面可以直接加形容词的动词
+
+ChatGPT said:
+ChatGPT
+很多动词后面可以直接加形容词来表达某种状态、感受或变化。以下是一些常见的这种结构的动词和相关例句：
+
+1. Be
+be + 形容词 是最常见的结构，表示“处于某种状态”。
+例句：She is happy.（她很高兴。）
+例句：The weather is cold today.（今天的天气很冷。）
+2. Seem
+seem + 形容词：表示看起来或似乎是某种状态。
+例句：He seems tired.（他看起来很累。）
+例句：The food seems delicious.（这道菜看起来很好吃。）
+3. Feel
+feel + 形容词：表示某种感觉或情绪。
+例句：I feel excited about the trip.（我对这次旅行感到兴奋。）
+例句：She feels nervous before the exam.（她在考试前感到紧张。）
+4. Look
+look + 形容词：表示外貌或视觉上的感觉。
+例句：You look tired.（你看起来很累。）
+例句：This dress looks beautiful.（这条裙子看起来很漂亮。）
+5. Become
+become + 形容词：表示逐渐变成某种状态。
+例句：He became angry after hearing the news.（听到这个消息后，他变得生气。）
+例句：The sky became dark before the storm.（暴风雨前，天色变得很暗。）
+6. Grow
+grow + 形容词：表示逐渐变得某种状态，通常是积极的变化。
+例句：She grew more confident over time.（她随着时间变得更加自信。）
+例句：His hair grew longer during the summer.（他的头发在夏天变长了。）
+7. Turn
+turn + 形容词：表示某人或某物变成某种状态。
+例句：The leaves turn yellow in autumn.（秋天，树叶变黄。）
+例句：His face turned pale when he heard the news.（他听到消息时脸色变得苍白。）
+8. Remain
+remain + 形容词：表示继续保持某种状态。
+例句：The situation remained tense after the meeting.（会议后局势依然紧张。）
+例句：She remained calm during the emergency.（在紧急情况下，她保持冷静。）
+9. Sound
+sound + 形容词：用于描述听起来像是某种状态或感觉。
+例句：That sounds interesting!（听起来很有趣！）
+例句：Her voice sounds tired.（她的声音听起来很疲倦。）
+10. Stay
+stay + 形容词：表示保持某种状态。
+例句：Stay calm, everything will be fine.（保持冷静，一切都会好起来的。）
+例句：Please stay quiet during the meeting.（会议期间请保持安静。）
+这些动词都可以后接形容词，表达某种状态或变化。希望这些例子能帮助你更好地理解这种用法！
+
+
+**方位描述
+[9,'Above sth. is sth.','<c>Above the bookshelf is</c> a clock that chimes every hour.','在..之上有.. 倒装句在强调时使用'],
+[69,'At the bottom of sth. is sth.','','在..的内底有..'],
+[74,'At the top of sth. is sth.','',''],
+[94,'be above sth.','',''],
+[108,'be at the bottom of sth.','',''],
+[110,'be at the top of sth.','',''],
+[116,'be behind sth.','',''],
+[118,'be below sth.','',''],
+[160,'be in front of sth.','',''],
+[164,'be in the back of sth.','',''],
+[166,'be in the front of sth.','',''],
+[195,'be on the left of sth.','',''],
+[200,'be on the right of sth.','',''],
+[236,'be surrounded by sth. to the east','',''],
+[237,'be surrounded by sth. to the north','',''],
+[238,'be surrounded by sth. to the south','',''],
+[239,'be surrounded by sth. to the west','',''],
+[242,'be to the east of sth.','',''],
+[243,'be to the left of sth.','',''],
+[244,'be to the north of sth.','',''],
+[246,'be to the right of sth.','',''],
+[247,'be to the south of sth.','',''],
+[248,'be to the west of sth.','',''],
+[273,'Behind sth. is sth.','','在..后面是.. 倒装句在强调时使用'],
+[277,'Below sth. is sth.','',''],
+[295,'border sth. to the east','',''],
+[296,'border sth. to the north','',''],
+[297,'border sth. to the south','',''],
+[298,'border sth. to the west','',''],
+[781,'In the back of sth. is sth.','',''],
+[782,'In the front of sth. is sth.','','倒装句在强调时使用'],
+[1279,'There is sth. above sth.','',''],
+[1280,'There is sth. at the bottom of sth.','',''],
+[1281,'There is sth. at the top of sth.','',''],
+[1282,'There is sth. behind sth.','',''],
+[1283,'There is sth. below sth.','',''],
+[1284,'There is sth. in front of sth.','',''],
+[1285,'There is sth. in the back of sth.','',''],
+[1286,'There is sth. in the front of sth.','',''],
+[1287,'There is sth. on the left of sth.','',''],
+[1288,'There is sth. on the right of sth.','',''],
+[1289,'There is sth. to the left of sth.','',''],
+[1290,'There is sth. to the right of sth.','',''],
+[1305,'To the east of sth. is sth.','',''],
+[1306,'To the left of sth. is sth.','',''],
+[1307,'To the north of sth. is sth.','',''],
+[1308,'To the right of sth. is sth.','',''],
+[1309,'To the south of sth. is sth.','',''],
+[1310,'To the west of sth. is sth.','',''],
+[774,'In front of sth. is sth.','','在..前面是.. 倒装句在强调时使用'],
+[986,'On the left of sth. is sth.','',''],
+[987,'On the right of sth. is sth.','',''],
+
+**度量
+[224,'be sn. deep','',''],
+[225,'be sn. high','',''],
+[226,'be sn. long','',''],
+[227,'be sn. tall','',''],
+[228,'be sn. thick','',''],
+[232,'be sn. wide','',''],
+
+
+**pasta
+
+Spaghetti
+Macaroni
+Fusilli
+Penne
+Linguine

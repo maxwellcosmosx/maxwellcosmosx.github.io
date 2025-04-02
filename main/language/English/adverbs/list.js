@@ -8,5 +8,5 @@ list = [
 [1,'merely',''],
 [1,'reportedly',''],
 [1,'allegedly',''],
-[1,'',''],
+[1,'exceedingly',''],
 ]

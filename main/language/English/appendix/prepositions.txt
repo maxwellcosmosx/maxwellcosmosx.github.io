@@ -34,3 +34,7 @@ minus
 near
 next
 of
+
+
+past
+amid

@@ -8,7 +8,7 @@
 	Highlighted Column
 */
 	// Default Highlighted Column Index
-	const defaultHighlightedColumn = 3;
+	const defaultHighlightedColumn = 2;
 	// null or 0,1,2...
 
 	// Current Highlighted Column Index
@@ -19,7 +19,7 @@
 	Page
 */
 	// Number of Rows For Per Page
-	const rowsPerPage = 300;
+	const rowsPerPage = 250;
 
 	// Default Page Number
 	let currentPage = 1;

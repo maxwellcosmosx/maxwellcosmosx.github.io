@@ -1,14 +1,14 @@
 /*
 	Table Header
 */
-	const header = ['ID','Item','Explanation','Class'];
+	const header = ['ID','Item','Example','Explanation','Class'];
 
 
 /*
 	Highlighted Column
 */
 	// Default Highlighted Column Index
-	const defaultHighlightedColumn = 2;
+	const defaultHighlightedColumn = 3;
 	// null or 0,1,2...
 
 	// Current Highlighted Column Index
@@ -29,11 +29,11 @@
 	Category
 */
 	// Default Selected Category
-	let currentCategory = 0;
+	let currentCategory = null;
 	// null or 0,1,2...
 
 	// Category Function
-	let noCategory = false;
+	let noCategory = true;
 	// true or false 
 
 

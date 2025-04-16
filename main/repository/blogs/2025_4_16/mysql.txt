@@ -1,0 +1,44 @@
+arch linux上 mysql部署
+
+#1 mysql下载
+pacman -S mysql
+检查 mysql --version
+
+#2 创建mysql用户
+sudo groupadd mysql
+sudo useradd -r -g mysql -s /bin/false mysql
+
+#3 mysql配置
+mysql_install_db --user=mysql --basedir=/usr --datadir=/var/lib/mysql
+
+#4 启动 mysql
+1. sudo systemctl start mysqld
+失败的话手动启动:
+2. sudo mysqld_safe --datadir=/var/lib/mysql --user=mysql &
+python 的mysql包下载
+
+#5 安全处理 设置密码
+sudo mysql_secure_installation
+
+#6 登录 mysql
+mysql -u root -p
+
+#7 创建新用户
+CREATE USER 'maxwell'@'localhost' IDENTIFIED BY '913';
+
+#8 授权
+GRANT ALL PRIVILEGES ON *.* TO 'maxwell'@'localhost' WITH GRANT OPTION;
+
+#9 登录新用户 maxwell
+mysql -u maxwell -p
+
+#10 创建数据库
+CREATE DATABASE example_database;
+SHOW DATABASES;
+USE example_database;
+
+#11  python的mysql包配置
+sudo pacman -S python-mysqlclient
+
+#12 联动使用
+import MySQLdb

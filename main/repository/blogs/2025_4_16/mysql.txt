@@ -14,7 +14,10 @@ mysql_install_db --user=mysql --basedir=/usr --datadir=/var/lib/mysql
 #4 启动 mysql
 1. sudo systemctl start mysqld
 失败的话手动启动:
-2. sudo mysqld_safe --datadir=/var/lib/mysql --user=mysql &
+1.
+sudo systemctl start mysqld
+sudo mysqld_safe --datadir=/var/lib/mysql --user=mysql &
+
 python 的mysql包下载
 
 #5 安全处理 设置密码

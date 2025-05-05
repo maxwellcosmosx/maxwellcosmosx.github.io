@@ -16,17 +16,21 @@ def InsertData(data_list):
     command = "INSERT IGNORE INTO collocations (item, example, explanation) VALUES (%s, %s, %s)"  #4th
     
     success_count = 0
+    failure_count = 0
     for i, data in enumerate(data_list, 1):
         try:
             cursor.execute(command, data)
-            success_count += 1
+            if cursor.rowcount > 0:
+                success_count += 1
+            else:
+                failure_count += 1
         except Exception as e:
             print(f">> Error at line {i}: {e}")
             print(f">> Problematic data: {data}")
             print(f">> Nothing saved!")
             return
     connector.commit()
-    print(f">> {success_count} saved successfully!")
+    print(f">> {success_count} saved successfully! ({failure_count} duplicates found)")
     cursor.execute("ALTER TABLE collocations DROP id")  #5th
     cursor.execute("ALTER TABLE collocations ADD id INT UNSIGNED NOT NULL AUTO_INCREMENT FIRST, ADD PRIMARY KEY (id)")  #6th
     cursor.close()

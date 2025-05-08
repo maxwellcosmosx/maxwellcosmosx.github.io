@@ -1,14 +1,14 @@
 /*
 	Table Header
 */
-	const header = ['ID','Item','Example','Explanation'];
+	const header = ['ID','Item','Explanation'];
 
 
 /*
 	Highlighted Column
 */
 	// Default Highlighted Column Index
-	const defaultHighlightedColumn = null;
+	const defaultHighlightedColumn = 0;
 	// null or 0,1,2...
 
 	// Current Highlighted Column Index
@@ -41,11 +41,11 @@
 	Hyperlink
 */
 	// The Column With Hyperlink
-	const hyperlinkColumnIndex = null;
+	const hyperlinkColumnIndex = 1;
 	// null or 0,1,2...
 
 	// URL for the hyperlink
-	const hyperlinkURL = '';
+	const hyperlinkURL = 'https://www.ldoceonline.com/dictionary/';
 
 
 /*

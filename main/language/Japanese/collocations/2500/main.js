@@ -33,7 +33,7 @@
 	// null or 0,1,2...
 
 	// Category Function
-	let noCategory = true;
+	let noCategory = false;
 	// true or false 
 
 
@@ -41,7 +41,7 @@
 	Hyperlink
 */
 	// The Column With Hyperlink
-	const hyperlinkColumnIndex = null;
+	const hyperlinkColumnIndex = 0;
 	// null or 0,1,2...
 
 	// URL for the hyperlink

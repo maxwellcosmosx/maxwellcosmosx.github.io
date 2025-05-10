@@ -1,11 +1,9 @@
 // Function to create table headers
 function createTableHeaders() {
     const tableHeaders = document.querySelector('#table-header');
-    const searchResultsHeaders = document.querySelector('#search-results-header');
     const columnSelect = document.getElementById('column-select');
     columnSelect.innerHTML = ''; // Clear existing options
     tableHeaders.innerHTML = ''; // Clear existing headers
-    searchResultsHeaders.innerHTML = ''; // Clear existing headers
 
     header.forEach((headerText, index) => {
         // Create table header
@@ -16,7 +14,6 @@ function createTableHeaders() {
         };
 
         tableHeaders.appendChild(createHeaderCell(headerText));
-        searchResultsHeaders.appendChild(createHeaderCell(headerText));
 
         // Create column selection options
         const option = document.createElement('option');
@@ -193,30 +190,4 @@ function nextPage() {
 function highlightColumn() {
     highlightedColumn = parseInt(document.getElementById('column-select').value);
     displayTable(currentPage);
-}
-
-// Function to clear search input and search results
-function clearSearch() {
-    document.getElementById('search-input').value = '';
-    searchQuery = '';
-    const searchResultsTable = document.getElementById('search-results-table');
-    const searchResultsBody = searchResultsTable.querySelector('tbody');
-    searchResultsBody.innerHTML = '';
-}
-
-// Function to search the table
-function searchTable() {
-    searchQuery = document.getElementById('search-input').value.trim(); // Trimmed search query
-    if (searchQuery !== '') {
-        displaySearchResults();
-    } else {
-        clearSearchResults();
-    }
-}
-
-// Function to clear search results
-function clearSearchResults() {
-    const searchResultsTable = document.getElementById('search-results-table');
-    const searchResultsTbody = document.querySelector('#search-results-table tbody');
-    searchResultsTbody.innerHTML = '';
 }

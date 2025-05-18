@@ -19,7 +19,7 @@
 	Page
 */
 	// Number of Rows For Per Page
-	const rowsPerPage = 300;
+	const rowsPerPage = 250;
 
 	// Default Page Number
 	let currentPage = 1;

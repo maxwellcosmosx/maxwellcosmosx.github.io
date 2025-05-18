@@ -1,5 +1,5 @@
 list = [
-[1,"abiotic",""],
+[1,"abiotic","非生物的"],
 [2,"able","能够的<br>@unable"],
 [3,"able-bodied","健全的"],
 [4,"abnormal",""],
@@ -190,6 +190,9 @@ list = [
 [189,"careful","小心翼翼的"],
 [190,"careless","粗心的"],
 [191,"caring",""],
+[191,"tipsy","微醺的"],
+[191,"ludicrous","荒唐的"],
+[191,"serial","连环的"],
 [192,"casual","随意的"],
 [193,"catastrophic","灾难性的"],
 [194,"catchy","朗朗上口的 抓耳的"],
@@ -2042,6 +2045,8 @@ list = [
 [2040,"custom-built","定制的"],
 [2040,"would-be","潜在的"],
 [2040,"virtuous",""],
-[2040,"stale",""],
-[2040,"",""],
+[2040,"stale","无聊的"],
+[2040,"retarded","智障的"],
+[2040,"live-action","真人版的"],
+[2040,"outstanding","未结清的"],
 ]

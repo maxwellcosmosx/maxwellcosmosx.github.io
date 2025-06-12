@@ -1,7 +1,7 @@
 /*
 	Table Header
 */
-	const header = ['ID','Item','Explanation'];
+	const header = ['ID','Item','Explanation','Noun'];
 
 
 /*

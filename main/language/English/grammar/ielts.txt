@@ -1,5 +1,38 @@
+强调
 the heck
 the hell
 the fuck
 in the world
 on earth
+
+感官动词
+[950,"feel sth. + being vp_pp.","","感觉#被动进行#<br>#05-5-5#"],
+[951,"feel sth. + vp_pp.","","感觉"],
+[952,"feel sth. + vp_prp.","","感觉"],
+[953,"feel sth. + vp.","","感觉"],
+[1686,"notice sth. + being vp_pp.","","注意到#被动进行#<br>#05-5-4#"],
+[1687,"notice sth. + vp_pp.","","注意到"],
+[1688,"notice sth. + vp_prp.","","注意到"],
+[1689,"notice sth. + vp.","","注意到"],
+[2002,"see sth. + being vp_pp.","","看到#被动进行#<br>#05-5-2#"],
+[2003,"see sth. + vp_pp.","I <c>saw</c> the man arrested by the police.","看到"],
+[2004,"see sth. + vp_prp.","I <c>saw</c> him running towards the station.","看到"],
+[2005,"see sth. + vp.","I <c>saw</c> her close the door.","看到"],
+[2453,"watch sth. + being vp_pp.","I <c>watched</c> the old building demolished by the workers.","看着#被动进行#<br>#05-5-3#"],
+[2454,"watch sth. + vp_pp.","I <c>watched</c> the old building demolished by the workers.","看着"],
+[2455,"watch sth. + vp_prp.","He <c>watched</c> the rain falling against the window.","看着"],
+[2456,"watch sth. + vp.","She <c>watched</c> the sun set behind the mountains.","看着"],
+[1293,"hear sth. + being vp_pp.","She <c>heard</c> her name called in the crowd.","听到<br>#被动进行#<br>#05-5-1#"],
+[1294,"hear sth. + vp_pp.","She <c>heard</c> her name called in the crowd.","听到"],
+[1295,"hear sth. + vp_prp.","I <c>heard</c> someone playing music loudly next door.","听到"],
+[1296,"hear sth. + vp.","She <c>heard</c> the children laugh in the backyard.","听到"],
+
+使役动词
+[1080,"get sth. + to vp.","I'll try to <c>get him to</c> help us with the project.","让人做<br>##<br>#06-4-3#"],
+[1081,"get sth. + vp_pp.","I wanna <c>get</c> my hair dyed.","把"],
+[1082,"get sth. + vp_prp.","I <c>got</c> the kids playing outside.","让"],
+[1270,"have sth. + vp_pp.","We're <c>having</c> the house painted next week.","让..被.."],
+[1271,"have sth. + vp_prp.","","让"],
+[1272,"have sth. + vp.","I'll <c>have</c> my assistant call you.","让某人做..<br>##<br>#06-4-2#"],
+[1488,"let sth. + vp.","","让<br>##<br>#06-4-4#"],
+[1588,"make sth. + vp.","The situation <c>made her</c> rethink her decision.","让某人做<br>##<br>#06-4-1#"],

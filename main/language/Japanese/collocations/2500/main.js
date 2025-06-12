@@ -33,7 +33,7 @@
 	// null or 0,1,2...
 
 	// Category Function
-	let noCategory = false;
+	let noCategory = true;
 	// true or false 
 
 

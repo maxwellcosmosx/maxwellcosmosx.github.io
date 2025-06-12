@@ -28,5 +28,4 @@ list = [
 [1422,"in what sense nc.","<c>In what sense</c> do you mean that this is a bad idea?","凭什么 类似于why"],
 [1436,"is it possible that nc.","<c>Is it possible that</c> the meeting will be postponed?","有没有可能"],
 [1437,"is there something wrong with n.","<c>Is there something wrong with</c> talking with him?","..有错吗"],
-
 ]

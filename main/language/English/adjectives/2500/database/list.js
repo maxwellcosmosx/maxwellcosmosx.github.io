@@ -34,6 +34,7 @@ list = [
 [33,"affordable","负担得起的",""],
 [34,"aforementioned","前面所提及的",""],
 [35,"afraid","害怕的",""],
+[35,"authoritative","具有权威性的",""],
 [36,"aggressive","好斗的",""],
 [37,"agreed","一致同意的",""],
 [38,"airy","通风好的通透的",""],

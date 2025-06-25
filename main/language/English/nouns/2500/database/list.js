@@ -476,6 +476,7 @@ list = [
 [397,"inspection","审查"],
 [397,"ambassador","大使"],
 [398,"maze","迷宫"],
+[398,"strap","肩带"],
 [398,"militant","激进分子"],
 [399,"meadow","草地"],
 [400,"means test","经济状况调查"],

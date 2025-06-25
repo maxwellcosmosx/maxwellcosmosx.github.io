@@ -97,7 +97,6 @@ list = [
 [19,"do a good job of vp_ger.","",""],
 [19,"take an objective view on sth.","","客观对待.."],
 [1935,"roll back to version sn.","","回滚到..版本"],
-[1924,"ricochet off sth.","The bullet <c>ricocheted</c> off the metal door.","从..上弹飞"],
 [1901,"render sth.","The software is rendering the 3D model.","渲染"],
 [1902,"render sth. a.","His injury rendered him unable to work.","使得"],
 [1895,"relish n.","They relished traveling to remote places.","享受"],

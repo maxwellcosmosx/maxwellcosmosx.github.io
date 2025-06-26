@@ -448,7 +448,6 @@ list = [
 [873,"move this along","",""],
 [873,"door slams shut","",""],
 [873,"bury one's face in sth.","",""],
-[873,"close in","",""],
 [873,"be sn. seconds away from nom.","",""],
 [873,"cop a feel","",""],
 [873,"crack the code","",""],

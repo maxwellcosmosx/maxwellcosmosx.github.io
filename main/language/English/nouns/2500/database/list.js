@@ -1,6 +1,9 @@
 list = [
 [1,"abrasion","擦伤"],
 [1,"drink","饮料"],
+[1,"genital","生殖器"],
+[1,"cooch",""],
+[1,"graffiti",""],
 [1,"comparison","对比"],
 [1,"contraction","连写"],
 [1,"abbreviation","缩写"],
@@ -476,6 +479,7 @@ list = [
 [397,"inspection","审查"],
 [397,"ambassador","大使"],
 [398,"maze","迷宫"],
+[398,"protagonist","主角"],
 [398,"strap","肩带"],
 [398,"militant","激进分子"],
 [399,"meadow","草地"],

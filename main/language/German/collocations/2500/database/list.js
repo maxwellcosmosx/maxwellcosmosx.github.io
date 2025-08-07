@@ -1,0 +1,15 @@
+list = [
+[2,"bin sth.","","",""],
+[2,"komme aus ap.","","",""],
+[2,"studiere sth.","","",""],
+[2,"darf ich vorstellen, das ist sth.","","",""],
+[2,"bitte vp.","","",""],
+[2,"antworten so. auf sth.","","",""],
+[2,"nicht mehr","","",""],
+[2,"noch nicht","","",""],
+[2,"bereiten sth. vor","","",""],
+[2,"erfor","","",""],
+[2,"wahlen sth.","","",""],
+[2,"werfen sth.","","",""],
+[2,"einen Blick werfen","","",""],
+]

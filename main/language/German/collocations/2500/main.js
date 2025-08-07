@@ -1,14 +1,14 @@
 /*
 	Table Header
 */
-	const header = ['ID','Item','Example','Explanation','Explanation','Class'];
+	const header = ['ID','Item','Sophistication','Example','Explanation'];
 
 
 /*
 	Highlighted Column
 */
 	// Default Highlighted Column Index
-	const defaultHighlightedColumn = 5;
+	const defaultHighlightedColumn = null;
 	// null or 0,1,2...
 
 	// Current Highlighted Column Index
@@ -19,7 +19,7 @@
 	Page
 */
 	// Number of Rows For Per Page
-	const rowsPerPage = 250;
+	const rowsPerPage = 2500;
 
 	// Default Page Number
 	let currentPage = 1;
@@ -33,7 +33,7 @@
 	// null or 0,1,2...
 
 	// Category Function
-	let noCategory = false;
+	let noCategory = true;
 	// true or false 
 
 

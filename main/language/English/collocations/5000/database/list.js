@@ -545,5 +545,4 @@ list = [
 [1307,"I figured nc.","","I figured you'd be hungry after work, so I cooked dinner.","我意识到<br>#过去时态呼应#"],
 [1309,"I suppose nc.","","","我觉得.."],
 [1310,"I thought nc.","","<c>I thought</c> he was ignoring me, but then I realized he was just busy with work.","我以为<br>#过去时态呼应#"],
-
 ]

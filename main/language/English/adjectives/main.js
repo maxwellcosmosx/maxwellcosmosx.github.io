@@ -1,14 +1,14 @@
 /*
 	Table Header
 */
-	const header = ['ID','Item','Explanation','Noun'];
+	const header = ['ID','Item','Example','Explanation'];
 
 
 /*
 	Highlighted Column
 */
 	// Default Highlighted Column Index
-	const defaultHighlightedColumn = 0;
+	const defaultHighlightedColumn = null;
 	// null or 0,1,2...
 
 	// Current Highlighted Column Index

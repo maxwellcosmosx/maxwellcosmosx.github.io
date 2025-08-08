@@ -13,7 +13,7 @@ def InsertData(data_list):
             db='language',      #3rd
             charset='utf8')
     cursor = connector.cursor()
-    command = "INSERT IGNORE INTO collocations (item, example, explanation) VALUES (%s, %s, %s)"  #4th
+    command = "INSERT IGNORE INTO collocations (item, synonym, example, explanation) VALUES (%s, %s, %s, %s)"  #4th
     
     success_count = 0
     failure_count = 0
@@ -46,7 +46,7 @@ def RefreshDatabase():
             charset='utf8')
     cursor = connector.cursor()
     cursor.execute("DROP TABLE IF EXISTS collocations;")    #10th
-    cursor.execute("CREATE TABLE IF NOT EXISTS `collocations`(`id` INT UNSIGNED AUTO_INCREMENT, `item` VARCHAR(80) NOT NULL, `example` VARCHAR(100) NOT NULL, `explanation` VARCHAR(80) NOT NULL, PRIMARY KEY (`id`), UNIQUE (`item`,`example`)) ENGINE=InnoDB DEFAULT CHARSET=utf8;")   #11th
+    cursor.execute("CREATE TABLE IF NOT EXISTS `collocations`(`id` INT UNSIGNED AUTO_INCREMENT, `item` VARCHAR(80) NOT NULL, `synonym` VARCHAR(100) NOT NULL, `example` VARCHAR(100) NOT NULL, `explanation` VARCHAR(80) NOT NULL, PRIMARY KEY (`id`), UNIQUE (`item`,`example`)) ENGINE=InnoDB DEFAULT CHARSET=utf8;")   #11th
     print(">> Initialized successfully!")
     cursor.close
     connector.close

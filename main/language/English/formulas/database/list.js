@@ -56,6 +56,8 @@ list = [
 [44,"Give me a second.","稍等一下",""],
 [45,"Go ahead.","请 请讲",""],
 [46,"Go away.","滚",""],
+[46,"Run along.","滚",""],
+[46,"Anyone Home?","有人在家吗?",""],
 [47,"Good day.","你好",""],
 [48,"Good for you.","",""],
 [49,"Good job.","做得好",""],

@@ -1,7 +1,7 @@
 /*
 	Table Header
 */
-	const header = ['ID','Item','Example','Explanation'];
+	const header = ['ID','Item','Sophistication','Example','Explanation'];
 
 
 /*
@@ -19,7 +19,7 @@
 	Page
 */
 	// Number of Rows For Per Page
-	const rowsPerPage = 250;
+	const rowsPerPage = 2500;
 
 	// Default Page Number
 	let currentPage = 1;

@@ -36,3 +36,19 @@ on earth
 [1272,"have sth. + vp.","I'll <c>have</c> my assistant call you.","让某人做..<br>##<br>#06-4-2#"],
 [1488,"let sth. + vp.","","让<br>##<br>#06-4-4#"],
 [1588,"make sth. + vp.","The situation <c>made her</c> rethink her decision.","让某人做<br>##<br>#06-4-1#"],
+
+
+
+of 盘点
+
+1. sth. of sth.
+a heart of gold
+a dress of silk
+skies of blue
+clouds of white
+
+2. be adj. of pronoun
+
+It's kind of you
+That's generous of her
+That's clever of him

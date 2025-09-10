@@ -1,5 +1,7 @@
 list = [
 [1,'barely','','勉强'],
+[1,'casually','','顺便地'],
+[1,'mistakenly','','失误地'],
 [1,'essentially','','基本上'],
 [1,'hardly','','几乎不'],
 [1,'hard','','努力地'],

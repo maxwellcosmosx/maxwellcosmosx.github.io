@@ -3,6 +3,7 @@ list = [
 [1,"drink","饮料"],
 [1,"genital","生殖器"],
 [1,"cooch",""],
+[1,"glare","眩光"],
 [1,"objective","目标"],
 [1,"property","性质"],
 [1,"transitive property","数学上的传递性"],

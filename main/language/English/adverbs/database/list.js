@@ -5,6 +5,8 @@ list = [
 [1,'essentially','','基本上'],
 [1,'hardly','','几乎不'],
 [1,'hard','','努力地'],
+[1,'flat out','','拼命地'],
+[1,'big time','','非常'],
 [1,'high','','高高地'],
 [1,'low','','低低地'],
 [1,'seemingly','this seemingly small change','看似是'],

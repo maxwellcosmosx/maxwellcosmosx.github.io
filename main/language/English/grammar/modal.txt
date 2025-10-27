@@ -8,30 +8,54 @@ shall vp.		必须..			#用在正式规定之中#
 =========
 == will
 =========
-will vp. 单纯的将来，没有计划
-will vp. 当即状态下，表示"去做.."
-will never / won't vp. 绝不会
-I/we will vp. 我们/我承诺..
-will vp. 准会..	对未来事件走向的推测
-will you vp. 你愿意..吗?
+will vp. 单纯的将来，心里没有计划
+The meeting will start at 9 AM.
 
+will vp. 当即状态下，表示"去做.."
+A: "The phone is ringing!"
+B: "I will answer it."
+
+will never 绝不会
+I will never lie to you. 
+
+I/we will vp. 我们/我承诺..
+We will finish the project on time. 
+
+will vp. 准会..	对未来事件走向的推测
+I think she will like the gift.
+
+will you vp. 你愿意..吗?
+Will you marry me? 
+
+** won't vp. 就是不 	#超级地道/超级重要#
+No matter what I do, she just won't pick up my calls.
 
 =========
 == would
 =========
-Would you vp. ?		你想..吗？
+Would you like sth. ?		你想要..吗？
+Would you like some coffee?
+
+Would you mind vp_ger. ?	你介意..吗？
+Would you mind closing the door?
 
 Wouldn't you vp. ? 	你不..吗？
+Wouldn't you prefer tea instead?
 
 would vp.		过去常常..	My grandfather would always tell me stories.
+My grandfather would always tell me stories.
 
 would like to vp.
+I would like to order now. 
 
 would rather vp.
+She would rather stay home. 
 
 would vp. 有可能
+It would take about 3 hours to drive there.
 
 wouldn't 绝不可能
+I wouldn't say he’s the best candidate. 
 
 if 		, would ..
 if had 	, would have ..
@@ -44,6 +68,9 @@ wouldn't have
 == can
 =========
 can't vp. 		绝对不可能..		#否定推测#
+That can't be true!
+I can't believe he lied to us!
+He can't have missed the train—it's still on the platform.
 
 
 
@@ -59,14 +86,20 @@ couldn't have
 == must
 =========
 mustn't vp.		禁止..
+You mustn't eat here. 
 
-must vp.		肯定..			#肯定推测#
+must vp.		肯定是..			#肯定推测#
+She must be tired. 
+The floor is wet—it must have rained last night. 
 
 must vp.		必须..			#硬性规定#
+You must fasten your seatbelt while driving.
 
 You must vp.	强烈推荐你..		#强烈推荐#
+You must visit that museum—it’s amazing! 
 
 I must vp. 		我必须得..		#个人决心#
+I must finish this report tonight.
 
 =========
 == should

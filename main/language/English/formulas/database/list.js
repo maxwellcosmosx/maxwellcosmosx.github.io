@@ -161,6 +161,7 @@ list = [
 [156,"Last but not least","最后同样重要的是",""],
 [157,"Leave me alone!","别来烦我!",""],
 [158,"Leave!","走开!",""],
+[158,"Don't feed the trolls.","",""],
 [682,"stop the cap!","","","别吹牛了"],
 [796,"What is he up to?","","",""],
 [798,"What's going on in there?","","",""],

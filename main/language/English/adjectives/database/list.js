@@ -525,6 +525,7 @@ list = [
 [505,"easily-crumbled","","易碎的"],
 [506,"eastern","","东边的"],
 [507,"easy","","容易的"],
+[507,"botanical","","植物的"],
 [508,"easygoing","","性格稳定的"],
 [509,"eccentric","eccentric behavior","古怪的"],
 [510,"eccentric","eccentric circles","非同心的<br>#数学概念#"],

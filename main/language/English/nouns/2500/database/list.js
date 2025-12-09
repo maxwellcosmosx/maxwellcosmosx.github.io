@@ -114,6 +114,7 @@ list = [
 [59,"backflip","后空翻"],
 [60,"ballet","芭蕾舞"],
 [61,"bane","祸患"],
+[61,"acquisition","收购"],
 [61,"jokester","活宝"],
 [61,"constraint","约束"],
 [61,"barn","谷仓"],

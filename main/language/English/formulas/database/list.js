@@ -161,6 +161,7 @@ list = [
 [156,"Last but not least","最后同样重要的是",""],
 [157,"Leave me alone!","别来烦我!",""],
 [158,"Leave!","走开!",""],
+[1123,"Don't get me wrong!","","","别误会"],
 [358,"I couldn't agree more","","","我同意得不能再同意了"],
 [367,"I've never enjoyed life more","","","我从未如此享受生活"],
 [424,"It never stuck with me.","","","始终没记住这个"],

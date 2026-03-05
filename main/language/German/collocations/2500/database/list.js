@@ -16,7 +16,7 @@ list = [
 [2,"bereiten sth_a. vor","","Ich <c>bereite das Essen vor</c>.","准备.."],
 [2,"erfordern sth_a.","","Der Job <c>erfordert</c> Erfahrung.","要求.."],
 [2,"brauchen sth_a.","","Ich brauche einen neuen Computer.","需要.."],
-[,"bekommen sth_a.","","Sie bekommt ein Geschenk.","收到.."],
+[2,"bekommen sth_a.","","Sie bekommt ein Geschenk.","收到.."],
 [2,"zu Beginn des Jahres","","","在年初"],
 [2,"brauchen zu vp.","","","需要做.."],
 [2,"wählen sth_a.","","Ich <c>wähle</c> das blaue Kleid.","选.."],

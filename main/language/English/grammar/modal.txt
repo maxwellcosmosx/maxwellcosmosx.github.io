@@ -1,9 +1,28 @@
 =========
 == shall
 =========
-Shall I vp. ? 	我能..吗？		#询问对方的许可#
-Shall we vp. ? 	我们一起..吧? 	#提出建议#
-shall vp.		必须..			#用在正式规定之中#
+shall vp.		必须..			#用在正式规定之中 比must更正式#
+The tenant shall pay the rent on the first day of each month. 
+
+Shall I/we vp. ? 	我们一起..吧? 	#提议#
+Shall we begin the meeting?
+
+shall 必将
+We shall never surrender. 
+I shall return.
+
+=========
+== should
+=========
+should 应该(建议)
+People should be kind to each other.
+
+should 按理应该(推测)
+It's 9:00. She should be at work by now.
+
+should've
+
+shouldn't have
 
 =========
 == will
@@ -33,53 +52,138 @@ No matter what I do, she just won't pick up my calls.
 =========
 == would
 =========
-Would you like sth. ?		你想要..吗？
-Would you like some coffee?
+would you + vp. ?
+Would you pass me the salt, please?
 
 Would you mind vp_ger. ?	你介意..吗？
 Would you mind closing the door?
 
+Would you like sth. ?		你想要..吗？
+Would you like some coffee?
+
+What would you do if...
+What would you do if you were me?
+
 Wouldn't you vp. ? 	你不..吗？
 Wouldn't you prefer tea instead?
 
-would vp.		过去常常..	My grandfather would always tell me stories.
-My grandfather would always tell me stories.
+I would say ...
+I would say it’s a good idea.
+
+would vp.		过去常常..
+When I was a kid, my grandfather would tell me stories before bed.
 
 would like to vp.
 I would like to order now. 
+
+would prefer to
+
+would love to
 
 would rather vp.
 She would rather stay home. 
 
 would vp. 有可能
-It would take about 3 hours to drive there.
+This approach would likely yield better results.
 
-wouldn't 绝不可能
+wouldn't 绝不会
 I wouldn't say he’s the best candidate. 
 
 if 		, would ..
+If I had more time, I would learn Japanese.
+
 if had 	, would have ..
+If I had studied harder, I would have passed the exam.
 
 would've
 
 wouldn't have
 
+
 =========
 == can
 =========
+can 能（能力）
+I can speak three languages.
+can - be able to
+could - was able to
+[X] - will be able to
+[X] - have been able to
+[X] - had been able to
+
+can 能（有可能）
+It can get very cold here in winter.
+
+Can I/We... 请求他人的许可
+Can I ask you a question?
+
+can 表示许可
+Sure, you can borrow my car.
+
 can't vp. 		绝对不可能..		#否定推测#
 That can't be true!
-I can't believe he lied to us!
+That can’t be John at the door. He’s in London this week.
 He can't have missed the train—it's still on the platform.
 
+can + smell/see/hear (代替进行时，使描述更生动)
+I can hear someone knocking at the door.
+
+
+I can't believe... 不敢相信..
+I can’t believe I passed the exam!
 
 
 =========
 == could
 =========
+Could I ask a quick question? 礼貌请求
+
+If you’re tired, you could take a nap. 给出委婉的建议 完全没有说教感
+
+It could rain later, so take an umbrella.（推测，不太确定）
+
 could've
 
 couldn't have
+
+How could you? 失望与责备
+
+I couldn’t agree more. 我同意得不能再同意
+
+I couldn’t care less. 我一点都不在乎
+
+=========
+== may
+=========
+may .. 可能 #书面语，口语中might#
+This may be the best solution we have.
+
+May I ... 我能..吗?
+May I borrow your pen, please? 
+
+You may.. 你可以..了
+You may begin the exam now. 
+
+May you both live happily ever after! （祝你们永远幸福！）【祝词】
+
+May the Force be with you. （愿原力与你同在。）【台词】
+
+May God bless you. （愿上帝保佑你。）【祷词】
+
+=========
+== might
+=========
+might .. 可能 #最常用最地道#
+Take an umbrella. It might rain later. 
+
+We might .. 我们不妨
+We might try calling their customer service. 
+
+You might wanna .. 你或许需要.. 非常委婉得体的建议
+You might want to back up your files before the update. 
+
+might as well 干脆就..吧 #来都来了的劝诱语感#
+Since you're here, you might as well stay for dinner. 
 
 
 =========
@@ -100,10 +204,3 @@ You must visit that museum—it’s amazing!
 
 I must vp. 		我必须得..		#个人决心#
 I must finish this report tonight.
-
-=========
-== should
-=========
-should've
-
-shouldn't have

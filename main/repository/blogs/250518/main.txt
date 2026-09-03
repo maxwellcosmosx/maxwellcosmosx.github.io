@@ -1,0 +1,69 @@
+***在Manjaro与Wins上部署网站开发环境***
+
+**Manjaro上部署**
+
+#1 MySQL下载
+pacman -S mysql
+mysql --version
+
+#2 创建MySQL用户
+sudo groupadd mysql
+sudo useradd -r -g mysql -s /bin/false mysql
+
+#3 MySQL配置
+mysql_install_db --user=mysql --basedir=/usr --datadir=/var/lib/mysql
+
+#4 启动MySQL
+sudo systemctl start mysqld
+
+*失败的话手动启动:
+sudo systemctl start mysqld
+sudo mysqld_safe --datadir=/var/lib/mysql --user=mysql &
+
+#5 设置密码
+sudo mysql_secure_installation
+
+#6 登录MySQL
+mysql -u root -p
+
+#7 创建新用户
+CREATE USER 'maxwell'@'localhost' IDENTIFIED BY '913';
+
+#8 授权
+GRANT ALL PRIVILEGES ON *.* TO 'maxwell'@'localhost' WITH GRANT OPTION;
+
+#9 登录新用户 maxwell
+mysql -u maxwell -p
+
+#10 创建数据库
+CREATE DATABASE language;
+
+#11  python的MySQL包配置
+sudo pacman -S python-mysqlclient
+
+
+**Wins上部署**
+
+#1 下载 Git Bash
+
+#2 Microsoft Store里下载并安装Python
+
+#3 Git Bash命令行里输入:
+	python -m pip install mysqlclient
+
+#4 访问 https://dev.mysql.com/downloads/installer/ 下载MySQL的本地安装包 mysql-installer-community
+
+#5 选中并安装 MySQL Server 和 MySQL Shell
+
+#6 打开MySQL Shell,输入:
+	\sql
+	\connect root@localhost:3306
+	create user 'maxwell' indentified by '913';
+	grant all privileges on *.* to 'maxwell' with grant option;
+	flush privileges;
+	\exit
+	\connect maxwell@localhost:3306
+	show databases;
+	create database language;
+
+#7. 将路径C:\Program Files\MySQL\MySQL Server 8.0\bin加入环境变量Path中

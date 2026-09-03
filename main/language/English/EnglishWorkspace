@@ -1,0 +1,11 @@
+<NotepadPlus>
+    <Project name="Collocation">
+        <File name="collocations\4000\list.js" />
+        <File name="collocations\3000\list.js" />
+        <File name="collocations\2000\list.js" />
+        <File name="collocations\1000\list.js" />
+    </Project>
+    <Project name="Noun">
+        <File name="nouns\2500\database\list.js" />
+    </Project>
+</NotepadPlus>

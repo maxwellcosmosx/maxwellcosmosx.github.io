@@ -495,5 +495,7 @@ list = [
 [847,"have a perfect alibi","","",""],
 [847,"cause difficulties in doing sth.","","",""],
 [847,"expropriate the land","<n>take over the land</n>","","征用土地"],
+[847,"by the way","<n>just as an aside<br>incidentally<br>on a side note</n>","","顺便说一句"],
+[847,"be over sn. years old","","This building is over 100 years old.","超过..年了"],
 [847,"","","",""],
 ]

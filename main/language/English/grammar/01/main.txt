@@ -1,206 +1,362 @@
-=========
-== shall
-=========
-shall vp.		必须..			#用在正式规定之中 比must更正式#
-The tenant shall pay the rent on the first day of each month. 
-
-Shall I/we vp. ? 	我们一起..吧? 	#提议#
-Shall we begin the meeting?
-
-shall 必将
-We shall never surrender. 
-I shall return.
-
-=========
-== should
-=========
-should 应该(建议)
-People should be kind to each other.
-
-should 按理应该(推测)
-It's 9:00. She should be at work by now.
-
-should've
-
-shouldn't have
-
-=========
-== will
-=========
-will vp. 单纯的将来，心里没有计划
-The meeting will start at 9 AM.
-
-will vp. 当即状态下，表示"去做.."
-A: "The phone is ringing!"
-B: "I will answer it."
-
-will never 绝不会
-I will never lie to you. 
-
-I/we will vp. 我们/我承诺..
-We will finish the project on time. 
-
-will vp. 准会..	对未来事件走向的推测
-I think she will like the gift.
-
-will you vp. 你愿意..吗?
-Will you marry me? 
-
-** won't vp. 就是不 	#超级地道/超级重要#
-No matter what I do, she just won't pick up my calls.
-
-=========
-== would
-=========
-would you + vp. ?
-Would you pass me the salt, please?
-
-Would you mind vp_ger. ?	你介意..吗？
-Would you mind closing the door?
-
-Would you like sth. ?		你想要..吗？
-Would you like some coffee?
-
-What would you do if...
-What would you do if you were me?
-
-Wouldn't you vp. ? 	你不..吗？
-Wouldn't you prefer tea instead?
-
-I would say ...
-I would say it’s a good idea.
-
-would vp.		过去常常..
-When I was a kid, my grandfather would tell me stories before bed.
-
-would like to vp.
-I would like to order now. 
-
-would prefer to
-
-would love to
-
-would rather vp.
-She would rather stay home. 
-
-would vp. 有可能
-This approach would likely yield better results.
-
-wouldn't 绝不会
-I wouldn't say he’s the best candidate. 
-
-if 		, would ..
-If I had more time, I would learn Japanese.
-
-if had 	, would have ..
-If I had studied harder, I would have passed the exam.
-
-would've
-
-wouldn't have
-
-
-=========
-== can
-=========
-can 能（能力）
-I can speak three languages.
-can - be able to
-could - was able to
-[X] - will be able to
-[X] - have been able to
-[X] - had been able to
-
-can 能（有可能）
-It can get very cold here in winter.
-
-Can I/We... 请求他人的许可
-Can I ask you a question?
-
-can 表示许可
-Sure, you can borrow my car.
-
-can't vp. 		绝对不可能..		#否定推测#
-That can't be true!
-That can’t be John at the door. He’s in London this week.
-He can't have missed the train—it's still on the platform.
-
-can + smell/see/hear (代替进行时，使描述更生动)
-I can hear someone knocking at the door.
-
-
-I can't believe... 不敢相信..
-I can’t believe I passed the exam!
-
-
-=========
-== could
-=========
-Could I ask a quick question? 礼貌请求
-
-If you’re tired, you could take a nap. 给出委婉的建议 完全没有说教感
-
-It could rain later, so take an umbrella.（推测，不太确定）
-
-could've
-
-couldn't have
-
-How could you? 失望与责备
-
-I couldn’t agree more. 我同意得不能再同意
-
-I couldn’t care less. 我一点都不在乎
-
-=========
-== may
-=========
-may .. 可能 #书面语，口语中might#
-This may be the best solution we have.
-
-May I ... 我能..吗?
-May I borrow your pen, please? 
-
-You may.. 你可以..了
-You may begin the exam now. 
-
-May you both live happily ever after! （祝你们永远幸福！）【祝词】
-
-May the Force be with you. （愿原力与你同在。）【台词】
-
-May God bless you. （愿上帝保佑你。）【祷词】
-
-=========
-== might
-=========
-might .. 可能 #最常用最地道#
-Take an umbrella. It might rain later. 
-
-We might .. 我们不妨
-We might try calling their customer service. 
-
-You might wanna .. 你或许需要.. 非常委婉得体的建议
-You might want to back up your files before the update. 
-
-might as well 干脆就..吧 #来都来了的劝诱语感#
-Since you're here, you might as well stay for dinner. 
-
-
-=========
-== must
-=========
-mustn't vp.		禁止..
-You mustn't eat here. 
-
-must vp.		肯定是..			#肯定推测#
-She must be tired. 
-The floor is wet—it must have rained last night. 
-
-must vp.		必须..			#硬性规定#
-You must fasten your seatbelt while driving.
-
-You must vp.	强烈推荐你..		#强烈推荐#
-You must visit that museum—it’s amazing! 
-
-I must vp. 		我必须得..		#个人决心#
-I must finish this report tonight.
+***情态动词***
+
+情态动词汇总与整理有两个难点:
+1. 时态。有些情况下, 过去式就是纯粹的时态变形, 含义完全没变, 需要放在一起。 但是在有些情况下, 表面虽是过去式, 实际语义已经独立分化, 必须单独完整保留。
+2. 散落。拥有同一功能但表示程度不同的表达散落在各个情态动词板块里, 需要摘出来并按照程度的变化整理成列表。
+这样处理后, 每个情态动词自己的板块里, 只保留它独有的、 进不了上述任何一张对比表的用法。
+
+另外需要说明的两点:
+1. 虚拟语气及转述都会牵涉情态动词的使用, 需另开文章说明。
+2. 有一些独立的固定搭配也用到了情态动词, 在这里不作收录。
+------------------------------------------------------------
+
+Table I. 让他人去做
+1. Will you vp.?		你能..吗?		#礼貌程度(I)#
+   Will you pass me the salt?
+   
+2. Can you vp.?		你能..吗?		#礼貌程度(II)#
+   Can you pass me the salt?
+
+3. Would you vp.?		你能..吗?		#礼貌程度(III)#
+   Would you pass me the salt?
+
+4. Could you vp.?		你能..吗?		#礼貌程度(III)#
+   Could you pass me the salt?
+
+5. Would you mind vp_ger.?		你介意..吗?		#礼貌程度(MAX)#
+   Would you mind passing me the salt?
+-------------------------------------------------------------
+
+Table II. 请求他人的允许
+1. Can I vp.?		我能..吗?		#礼貌程度(II)#
+   Can I leave early today?
+
+2. Could I vp.		我能..吗?		#礼貌程度(III)#
+   Could I ask a quick question?
+
+3. May I vp.?		我能..吗?		#礼貌程度(MAX)#
+   May I ask you something?
+
+4. Might I vp.?		我能..吗?		#礼貌程度(MAX) 邮件用语#
+   Might I suggest an alternative?
+--------------------------------------------------------------
+
+Table III. 给他人建议
+1. You had better vp.	你最好给我..		#礼貌程度(I)#
+   You had better eat it all.
+
+2. You should vp.		你应该..		#礼貌程度(II)#
+   You should apologize.
+
+3. You could vp.		你可以..		#礼貌程度(III)#
+   You could try calling customer service.
+   
+4. You might wanna vp.		你或许需要..		#礼貌程度(MAX-)#
+   You might want to back up your files before the update. 
+
+5. I would suggest vp_ger.		我建议..		#礼貌程度(MAX)#	
+   I would suggest waiting a bit.
+----------------------------------------------------------------
+
+Table IV. 对现在的肯定推测
+1. might vp.		可能..		#确定程度(I)#
+   Take an umbrella. It might rain later. 
+   She might be at home.
+   
+2. may vp.		可能..		#确定程度(I)#
+   It may rain later.
+   She may be right.
+   
+3. could vp.		可能..		#确定程度(I)#
+   It could rain later.
+   
+4. should vp.		按理说..		#确定程度(III)#
+   It's 9am. She should be at work by now.
+   
+5. will vp.		按理说..		#确定程度(III)#
+   He will be home by now, it's already 8pm.
+   
+6. may well vp.		很有可能..		#确定程度(MAX-)#
+   He may well be the best candidate.
+   
+7. must vp.		肯定是..了		#确定程度(MAX)#
+   She must be tired. 
+---------------------------------------------------------------
+  
+Table V. 对现在的否定推测
+1. might not vp.		可能不..		#确定程度(I)#
+   She might not be at home.
+
+2. may not vp.		可能不..		#确定程度(I)#
+   It may not rain today.
+
+3. shouldn't vp.		按理说不..		#确定程度(III)#
+   It's Sunday, she shouldn't be at work now.
+   
+4. won't vp.		按理说不..		#确定程度(III) 基于主观判断、常识#
+   It's too early, he won't be home yet.
+
+5. may well not vp.		很可能不..		#确定程度(MAX-)#
+   He may well not be the next president.
+   
+6. can't vp. 		绝对不可能..		#确定程度(MAX)#
+   That can't be true!
+   That can't be John at the door. He's in London this week.
+
+7. couldn't vp. 		绝对不可能..		#确定程度(MAX)#
+   She couldn't be at home now, I just saw her at the office.
+---------------------------------------------------------------
+
+Table VI. 对过去的肯定推测
+1. might have vp_pp.	可能已经..了		#确定程度(I)#
+   He might have missed the bus.
+
+2. may have vp_pp.		可能已经..了		#确定程度(I)#
+   He may have missed the train.
+
+3. could have vp_pp.	可能已经..了		#确定程度(I)#
+   She could have left already, I'm not sure.
+
+4. should have vp_pp.	按理说已经..了		#确定程度(III)#
+   He should have arrived by now. 
+
+5. will have vp_pp.		按理说已经..了		#确定程度(III)#
+   He'll have finished dinner by now, it's 8pm.
+
+6. may well have vp_pp.		很可能已经..了		#确定程度(MAX-)#
+   He may well have missed the train—it left ten minutes ago.
+
+7. must have vp_pp.		肯定已经..了		#确定程度(MAX)#
+   You must have been so relieved when you heard the news.
+--------------------------------------------------------------
+   
+Table VII. 对过去的否定推测
+1. might not have vp_pp.		可能没有..		#确定程度(I)#
+   She might not have seen my message yet.
+
+2. may not have vp_pp.		可能没有..		#确定程度(I)#
+   He may not have received the email.
+
+3. shouldn't have vp_pp.		按理没有..		#确定程度(III)#
+   He shouldn't have left yet, the meeting isn't over.
+
+4. won't have vp_pp.		按理没有..		#确定程度(III)#
+   He won't have eaten yet, he just got home.
+
+5. may well not have vp_pp.		很可能没有..		#确定程度(MAX-)#
+   She may well not have heard the announcement, she was out all day.
+
+6. can't have vp_pp.		绝对没有..		#确定程度(MAX)#
+   He can't have missed the train—it's still on the platform.
+
+7. couldn't have vp_pp.		绝对没有..		#确定程度(MAX)#
+   She couldn't have known about the surprise party."
+-------------------------------------------------------------
+
+**shall**
+1. shall vp.		必须..		#用在正式规定之中,比must更正式#
+   The tenant shall pay the rent on the first day of each month. 
+
+2. Shall I vp.?		我要不要..?		#主动提议#
+   Shall I open the window?
+   
+3. Shall we vp.?		我们..如何?		#邀请#
+   Shall we begin the meeting?
+
+4. I/We shall vp.		我(们)必将..		#庄严#
+   We shall never surrender. 
+   I shall return.
+------------------------------------------------------------
+
+**should**
+1. should vp.		最好要..		#应该#
+   People should be kind to each other.
+
+2. Why should I vp.?		我凭什么..?!		#反问#
+   Why should I apologize? I didn't do anything wrong.
+
+3. I should think/say (that) ...		我觉得..		#表达自我认为,谦逊有修养#
+   I should say it'll be fine.
+
+4. should've vp_pp		本应该..		#事实上并没有做,后悔#
+   I should've left earlier, now we're stuck in traffic.
+
+5. shouldn't have vp_pp		本不应该..		#事实上已经做了,后悔#
+   I shouldn't have eaten so much.
+   
+6. Should you vp.		如果你..		#商务书信重要语法#
+   Should you have any questions, please don't hesitate to contact us.
+   
+7. 固定搭配 
+   How should I know?!
+   You should have seen it!
+   You should have been there!
+-------------------------------------------------------------
+
+**will**
+1. will vp.		将会..		#并没有提前好好计划#	...(1)
+   I will call her later.
+
+2. I'll vp.		我去..		#当即状态下决定去做#
+   The phone is ringing, I'll answer it.
+
+3. I/We will vp.		我(们)定会..		#承诺#
+   We will finish the project on time.
+   I will never leave you. 
+
+4. That'll be sth.		我猜那是..		#即时猜测#
+   That'll be the postman.
+
+5. will often vp.		总是..		#习惯#
+   She will often stay up late working.
+   
+6. will vp.		老是..		#抱怨他人的坏习惯#
+   He will interrupt people mid-sentence, it drives me crazy.
+   
+7. won't vp.	将不会..		#will的简单否定#
+   I won't be home tonight.
+
+8. won't vp.		就是不..		#顽固不配合,超级地道#
+   No matter what I do, the car won't start.
+
+9. Won't you vp.?		你不..吗?		#地道的邀请#
+   Won't you come in?
+   
+10. 固定搭配
+    Will you marry me?
+
+(1) be going to vp.	将会..		#提前好好计划#
+    I'm going to visit my parents this weekend.
+-----------------------------------------------------------
+
+**would**
+1. Would you like sth.?		要来点..吗?		#Do you want sth.的礼貌表达#
+   Would you like some coffee?
+
+2. I would say (that) ...		我觉得..		#表达自我认为,I think的口语版#
+   I would say it's a good idea.
+   
+3. I wouldn't say (that) ...		我不觉得..		#表达自我认为,I don't think的口语版#
+   I wouldn't say he's the best candidate. 
+	
+4. I would like/love/prefer to vp.		我想要去..		#I want to vp.的礼貌表达#
+   I would like to order now. 
+
+5. would rather vp.		我更愿意..		#比较后给出自己愿意的答案#
+   I would rather stay home tonight. 
+
+6. would vp.		过去常常..		#过去常做,只能跟动作#	...(1)
+   When I was a kid, my grandfather would tell me stories before bed.
+
+7. What would you do if ...		如果..你会怎么做?		#固定搭配#
+   What would you do if you were me?
+
+8. Would you believe (that) ...?		你敢信..?		#固定搭配#
+   Would you believe he forgot my name?
+
+9. wouldn't vp.		就是不..		#顽固不配合,超级地道 won't的过去式#
+   The car wouldn't start this morning.
+	
+10. would've vp_pp.		本会..的		#事实上没做#
+    I would've said something stupid.
+
+11. wouldn't have vp_pp.		本不会..的		#事实上做了#
+    I wouldn't have failed the exam.
+
+12. would vp.		老是..		#抱怨他人的坏习惯#
+    He would always show up late and never apologize.
+
+(1) used to vp.		过去常常..	#过去常做,可以是动作或状态#
+    I used to live in London.
+-------------------------------------------------------------
+
+**can**
+1. can vp.		能..		#能力#
+   I can speak three languages.
+
+2. can vp.		有可能..		#可能性#
+   It can get very cold here in winter.
+   Smoking can cause cancer.
+
+3. can vp.		可以..		#表示许可#
+   You can use my car.
+
+4. I can + smell/see/hear		我闻到/看到/听到..了		#代替进行时,十分地道#
+   I can hear someone knocking at the door.
+
+5. I can't believe (that) ...		我不敢相信..		#表示惊讶,固定搭配#
+   I can't believe I passed the exam.
+
+6. Can I have sth.?		我要..		#点餐买东西#
+   Can I have a coffee?
+	
+7. Can't you just vp.?		你就不能..吗?		#极度不耐烦#
+   Can't you just be quiet for a minute?
+---------------------------------------------------------------
+
+**could**
+1. could vp.		能..		#能力,can的过去式#
+   I couldn't understand him at all.
+
+2. How could you vp.		你怎么能..		#震惊责备#
+   How could you say that to her!
+
+3. I could vp.		我简直能..		#夸张表示强烈情绪#
+   I could kill him right now!
+   I could scream!
+
+4. could've vp_pp.		本能够..		#事实上没能#
+   You could've told me earlier.
+
+5. couldn't have vp_pp.		本不能够..		#事实上确实做到了#
+   I couldn't have won on my own, but he was late and forfeited.
+
+6. 固定搭配
+   I couldn't agree more.
+   Things couldn't be better/worse.
+   I couldn't care less.
+-----------------------------------------------------------
+
+**may**
+1. may vp.		能..		#表示允许,正式书面#
+   You may begin the exam now.
+
+2. may vp.,but ...		可能..但是..		#表示让步,后跟转折#
+   It may be expensive, but it's worth every penny.
+
+3. 固定搭配
+   May you have a wonderful year ahead.
+   May God bless you.
+-----------------------------------------------------------
+
+**might**
+1. might have vp_pp.	本应该..		#对他人的委婉责备#
+   You might have told me!
+   
+2. might as well vp.		干脆就..吧		#干脆#
+   Since you're here, you might as well stay for dinner.
+------------------------------------------------------------
+
+**must**
+1. mustn't vp.		不可以..		#表示禁止#
+   You mustn't smoke here. 
+
+2. must vp.		必须..			#命令他人必须照做,基本不用于疑问句#	...(1)
+   You must fasten your seatbelt while driving.
+
+3. You must vp.	强烈推荐你..		#强烈推荐#
+   You must visit that museum—it's amazing! 
+
+4. I must vp. 		我必须得..		#个人决心#
+   I must finish this report tonight.
+
+5. Must you vp.?		你非得..吗?		#极度不耐烦#
+   Must you interrupt every time I'm talking?
+
+6. 固定搭配
+   You must be joking
+   This must be a mistake
+   
+(1) have (got) to vp.		必须..		#客观不得不,地道口语,可以用于疑问句#
+    I have got to submit this assignment by Friday.
+----------------------------------------------------------

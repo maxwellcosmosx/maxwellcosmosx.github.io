@@ -1,3 +1,13 @@
+[2429,"walk + across sth.","","","走<br>#在上面横穿走#<br>#03-9-1#"],
+[2430,"walk + along sth.","","We <c>walked along</c> the trail in the foreapt.","走<br>#沿着方向在上面走#<br>#03-9-2#"],
+[2431,"walk + around sth.","","","走<br>#区域内随意走#<br>#03-9-3#"],
+[2432,"walk + by sth.","","Did you see the mural when you <c>walked by</c> the park?","走<br>#在旁边走 可能停留#<br>#03-9-4#"],
+[2433,"walk + down by sth.","","We <c>walked down by</c> the river, enjoying the view.","走<br>#沿着方向在旁边走#<br>#03-9-5#"],
+[2434,"walk + down sth.","","We love to <c>walk down the street</c> of our hometown in the evening","走<br>#沿着方向在上面走#<br>#03-9-6#"],
+[2435,"walk + on sth.","","","走<br>#在上面走#<br>#03-9-7#"],
+[2436,"walk + past sth.","","","走<br>#在旁边走 保持不停#<br>#03-9-8#"],
+[2437,"walk + through sth.","","","走<br>#内部穿过去走#<br>#03-9-9#"],
+
 强调
 the heck
 the hell

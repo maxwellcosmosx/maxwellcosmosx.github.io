@@ -1,3 +1,11 @@
+
+虚拟语气
+if 		, would ..
+If I had more time, I would learn Japanese.
+
+if had 	, would have ..
+If I had studied harder, I would have passed the exam.
+
 **区别
 a few
 a bit

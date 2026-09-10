@@ -1,0 +1,46 @@
+***区别***
+ensure
+assure
+insure
+1. ensure(确保)——针对"事情"
+
+表示采取行动使某件事情一定会发生、有保障。后面通常接事情/情况,而不是人。
+
+Please ensure that the door is locked before you leave.
+(请确保离开前锁好门)
+
+The new policy is designed to ensure fairness in the workplace.
+(这项新政策旨在确保工作场所的公平)
+
+注意:英式英语中,ensure后接that从句时,that可以省略;有些语法书区分ensure(确保某事发生)和make sure(更口语化),意思基本相通。
+
+2. assure(使人安心、向人保证)——针对"人"
+
+表示对某人说一些话,让他消除疑虑、放心,后面必须接"人"作宾语。
+
+结构:assure + 人 + that从句 / assure sb of sth
+
+The doctor assured the patient that the operation was safe.
+(医生向病人保证手术是安全的——重点是让病人放心)
+
+I can assure you of my full support.
+(我向你保证我会全力支持)
+
+记忆技巧:assure 里面有"你"要被安抚,所以后面一定跟人。
+
+对比:
+
+❌ I assure that everything will be fine.(缺少宾语"人",不自然)
+✅ I assure you that everything will be fine.
+
+3. insure(投保)——针对"保险"
+
+表示为人或财物购买保险,以防万一发生损失时获得赔偿。美式英语中,insure有时也可代替ensure使用(表示"确保"),但这种用法在英式英语中不被接受,正式写作中最好只在"保险"含义上使用insure。
+
+He insured his car against theft and accidents.
+(他给车买了防盗和事故险)
+
+The house is insured for $500,000.
+(这栋房子投保了50万美元)
+
+**后面可以直接加形容词的动词

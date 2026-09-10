@@ -1,7 +1,7 @@
 ***情态动词***
 
 情态动词汇总与整理有两个难点:
-1. 时态。有些情况下, 过去式就是纯粹的时态变形, 含义完全没变, 需要放在一起。 但是在有些情况下, 表面虽是过去式, 实际语义已经独立分化, 必须单独完整保留。
+1. 时态。有些情况下, 过去式就是纯粹的时态变形, 含义完全没变。 但是在有些情况下, 表面虽是过去式, 实际语义已经独立分化, 必须单独完整保留。
 2. 散落。拥有同一功能但表示程度不同的表达散落在各个情态动词板块里, 需要摘出来并按照程度的变化整理成列表。
 这样处理后, 每个情态动词自己的板块里, 只保留它独有的、 进不了上述任何一张对比表的用法。
 
@@ -212,18 +212,15 @@ Table VII. 对过去的否定推测
    
 6. will vp.		老是..		#抱怨他人的坏习惯#
    He will interrupt people mid-sentence, it drives me crazy.
-   
-7. won't vp.	将不会..		#will的简单否定#
-   I won't be home tonight.
 
-8. won't vp.		就是不..		#顽固不配合,超级地道#
+7. won't vp.		就是不..		#顽固不配合,超级地道#
    No matter what I do, the car won't start.
 
-9. Won't you vp.?		你不..吗?		#地道的邀请#
+8. Won't you vp.?		你不..吗?		#地道的邀请#
    Won't you come in?
    
-10. 固定搭配
-    Will you marry me?
+9. 固定搭配
+   Will you marry me?
 
 (1) be going to vp.	将会..		#提前好好计划#
     I'm going to visit my parents this weekend.
@@ -253,18 +250,12 @@ Table VII. 对过去的否定推测
 
 8. Would you believe (that) ...?		你敢信..?		#固定搭配#
    Would you believe he forgot my name?
-
-9. wouldn't vp.		就是不..		#顽固不配合,超级地道 won't的过去式#
-   The car wouldn't start this morning.
 	
 10. would've vp_pp.		本会..的		#事实上没做#
     I would've said something stupid.
 
 11. wouldn't have vp_pp.		本不会..的		#事实上做了#
     I wouldn't have failed the exam.
-
-12. would vp.		老是..		#抱怨他人的坏习惯#
-    He would always show up late and never apologize.
 
 (1) used to vp.		过去常常..	#过去常做,可以是动作或状态#
     I used to live in London.
@@ -295,26 +286,23 @@ Table VII. 对过去的否定推测
 ---------------------------------------------------------------
 
 **could**
-1. could vp.		能..		#能力,can的过去式#
-   I couldn't understand him at all.
-
-2. How could you vp.		你怎么能..		#震惊责备#
+1. How could you vp.		你怎么能..		#震惊责备#
    How could you say that to her!
 
-3. I could vp.		我简直能..		#夸张表示强烈情绪#
+2. I could vp.		我简直能..		#夸张表示强烈情绪#
    I could kill him right now!
    I could scream!
 
-4. could've vp_pp.		本能够..		#事实上没能#
+3. could've vp_pp.		本能够..		#事实上没能#
    You could've told me earlier.
 
-5. couldn't have vp_pp.		本不能够..		#事实上确实做到了#
+4. couldn't have vp_pp.		本不能够..		#事实上确实做到了#
    I couldn't have won on my own, but he was late and forfeited.
 
-6. 固定搭配
+5. 固定搭配
    I couldn't agree more.
-   Things couldn't be better/worse.
    I couldn't care less.
+   Things couldn't be better/worse.
 -----------------------------------------------------------
 
 **may**
@@ -354,8 +342,8 @@ Table VII. 对过去的否定推测
    Must you interrupt every time I'm talking?
 
 6. 固定搭配
-   You must be joking
-   This must be a mistake
+   You must be joking.
+   This must be a mistake.
    
 (1) have (got) to vp.		必须..		#客观不得不,地道口语,可以用于疑问句#
     I have got to submit this assignment by Friday.

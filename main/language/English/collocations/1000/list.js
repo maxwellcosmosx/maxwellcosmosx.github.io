@@ -1014,4 +1014,5 @@ list = [
 [1013,"slurp one's soup","","","吸溜汤汁"],
 [1014,"stipulate that","","","明文规定.."],
 [1015,"won't take too long","","","花不了太久"],
+[1015,"make myself understood","","",""],
 ]

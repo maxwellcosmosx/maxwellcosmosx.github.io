@@ -1,0 +1,42 @@
+**感官动词**
+
+感官动词可以有"实义"与"连系"两大用法,有些感官动词只有其中某一项用法,有些感官动词则兼顾两种用法,
+本专题详细讲解"实义"用法,感官动词的"连系"用法放在"连系动词"专题里和其他全部连系动词一起讲解。
+----------------------------------------------------
+see so. + vp.
+I saw her close the door.
+
+see so. + vp_ger.
+I saw him running towards the station.
+
+see so. + vp_pp.
+I saw the man arrested by the police.
+
+be seen + to vp.
+She was seen to close the door.
+
+be seen + vp_ger.
+
+be seen + vp_pp.
+----------------------------------------------------
+
+[2453,"watch sth. + being vp_pp.","I <c>watched</c> the old building demolished by the workers.","看着#被动进行#<br>#05-5-3#"],
+[2454,"watch sth. + vp_pp.","I <c>watched</c> the old building demolished by the workers.","看着"],
+[2455,"watch sth. + vp_prp.","He <c>watched</c> the rain falling against the window.","看着"],
+[2456,"watch sth. + vp.","She <c>watched</c> the sun set behind the mountains.","看着"],
+----------------------------------------------------
+[1293,"hear sth. + being vp_pp.","She <c>heard</c> her name called in the crowd.","听到<br>#被动进行#<br>#05-5-1#"],
+[1294,"hear sth. + vp_pp.","She <c>heard</c> her name called in the crowd.","听到"],
+[1295,"hear sth. + vp_prp.","I <c>heard</c> someone playing music loudly next door.","听到"],
+[1296,"hear sth. + vp.","She <c>heard</c> the children laugh in the backyard.","听到"],
+----------------------------------------------------
+[950,"feel sth. + being vp_pp.","","感觉#被动进行#<br>#05-5-5#"],
+[951,"feel sth. + vp_pp.","","感觉"],
+[952,"feel sth. + vp_prp.","","感觉"],
+[953,"feel sth. + vp.","","感觉"],
+----------------------------------------------------
+[1686,"notice sth. + being vp_pp.","","注意到#被动进行#<br>#05-5-4#"],
+[1687,"notice sth. + vp_pp.","","注意到"],
+[1688,"notice sth. + vp_prp.","","注意到"],
+[1689,"notice sth. + vp.","","注意到"],
+----------------------------------------------------

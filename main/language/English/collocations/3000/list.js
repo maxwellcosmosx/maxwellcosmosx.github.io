@@ -991,4 +991,7 @@ list = [
 [442,"in the morning","<n>in the early morning</n>","I go jogging <c>in the morning</c>.","在早上"],
 [443,"in the neighborhood","","","在家附近"],
 [444,"in the past","","","在以前"],
+[444,"as I understand it","as far as I know","",""],
+[444,"be bankrolled by so.","","",""],
+[444,"have close ties to so.","","","与..交好"],
 ]

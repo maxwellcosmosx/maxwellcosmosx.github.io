@@ -196,7 +196,16 @@ Table VII. 对过去的否定推测
 **will**
 1. will vp.		将会..		#并没有提前好好计划#	...(1)
    I will call her later.
+   
+   won't cp.		将不会..		#will的否定形式#
+   I won't be at the meeting tomorrow.
 
+   would vp.		将会..		#will的过去形式#
+   I thought it would rain.
+   
+   wouldn't vp.		将不会..		#will的否定过去形式#
+   She said she wouldn't be late.
+   
 2. I'll vp.		我去..		#当即状态下决定去做#
    The phone is ringing, I'll answer it.
 
@@ -222,39 +231,39 @@ Table VII. 对过去的否定推测
 9. 固定搭配
    Will you marry me?
 
-(1) be going to vp.	将会..		#提前好好计划#
+(1) be going to vp.		将会..		#提前好好计划#
     I'm going to visit my parents this weekend.
 -----------------------------------------------------------
 
 **would**
-1. Would you like sth.?		要来点..吗?		#Do you want sth.的礼貌表达#
-   Would you like some coffee?
-
-2. I would say (that) ...		我觉得..		#表达自我认为,I think的口语版#
-   I would say it's a good idea.
-   
-3. I wouldn't say (that) ...		我不觉得..		#表达自我认为,I don't think的口语版#
-   I wouldn't say he's the best candidate. 
-	
-4. I would like/love/prefer to vp.		我想要去..		#I want to vp.的礼貌表达#
-   I would like to order now. 
-
-5. would rather vp.		我更愿意..		#比较后给出自己愿意的答案#
+1. would rather vp.		我更愿意..		#比较后给出自己愿意的答案#
    I would rather stay home tonight. 
 
-6. would vp.		过去常常..		#过去常做,只能跟动作#	...(1)
+2. would vp.		过去常常..		#过去常做,只能跟动作不能跟状态#	...(1)
    When I was a kid, my grandfather would tell me stories before bed.
+   
+3. Would you like sth.?		要来点..吗?		#Do you want sth.的礼貌表达#
+   Would you like some coffee?
 
-7. What would you do if ...		如果..你会怎么做?		#固定搭配#
+4. I would say (that) ...		我觉得..		#表达自我认为,I think的口语版#
+   I would say it's a good idea.
+
+   I wouldn't say (that) ...		我不觉得..		#I would say的否定形式#
+   I wouldn't say he's the best candidate. 
+	
+5. I would like/love/prefer to vp.		我想要去..		#I want to vp.的礼貌表达#
+   I would like to order now. 
+
+6. What would you do if ...		如果..你会怎么做?		#固定搭配#
    What would you do if you were me?
 
-8. Would you believe (that) ...?		你敢信..?		#固定搭配#
+7. Would you believe (that) ...?		你敢信..?		#固定搭配#
    Would you believe he forgot my name?
 	
-10. would've vp_pp.		本会..的		#事实上没做#
+8. would've vp_pp.		本会..的		#事实上没做#
     I would've said something stupid.
 
-11. wouldn't have vp_pp.		本不会..的		#事实上做了#
+9. wouldn't have vp_pp.		本不会..的		#事实上做了#
     I wouldn't have failed the exam.
 
 (1) used to vp.		过去常常..	#过去常做,可以是动作或状态#
@@ -291,7 +300,6 @@ Table VII. 对过去的否定推测
 
 2. I could vp.		我简直能..		#夸张表示强烈情绪#
    I could kill him right now!
-   I could scream!
 
 3. could've vp_pp.		本能够..		#事实上没能#
    You could've told me earlier.
@@ -329,7 +337,7 @@ Table VII. 对过去的否定推测
 1. mustn't vp.		不可以..		#表示禁止#
    You mustn't smoke here. 
 
-2. must vp.		必须..			#命令他人必须照做,基本不用于疑问句#	...(1)
+2. must vp.		必须..			#主观,命令他人必须照做,基本不用于疑问句#	...(1)
    You must fasten your seatbelt while driving.
 
 3. You must vp.	强烈推荐你..		#强烈推荐#
@@ -345,6 +353,6 @@ Table VII. 对过去的否定推测
    You must be joking.
    This must be a mistake.
    
-(1) have (got) to vp.		必须..		#客观不得不,地道口语,可以用于疑问句#
+(1) have (got) to vp.		必须..		#客观,迫不得已,可以用于疑问句#
     I have got to submit this assignment by Friday.
 ----------------------------------------------------------

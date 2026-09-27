@@ -1,3 +1,51 @@
+ask so. to do
+tell so. to do
+
+
+as的全用法
+
+
+"either" 这个词容易让人困惑，是因为它同时有**"两者之一"和"两者都"**两种看似矛盾的意思，关键要看它出现在什么句型里。
+
+1. "两者之一"（单选，强调不确定选哪个）
+
+修饰单数名词，表示"随便哪一个都行"：
+
+You can park on either side of the street.（街道两边随便停哪边都行——注意这里其实隐含"两边都可以"，但强调的是"任选一边"这个动作）
+Either answer is acceptable.（两个答案随便哪个都对）
+
+配 of 的时候：
+
+Either of you can go.（你们俩谁去都行）
+2. "两者都"（当它修饰表示"两端/两边"的名词时）
+
+这是最容易搞混的地方——on either side 实际意思是"两边都有"，不是"选一边"：
+
+There were trees on either side of the road.（路两边都有树，= on both sides）
+
+判断技巧：如果句子描述的是一个对称的静态场景（两端、两侧、两头），既然它是"随便哪一边都符合这个描述"，逻辑上等于"两边都符合"，所以约定俗成翻成"两边都"。
+
+3. either...or：非此即彼
+Either you apologize, or I'm leaving.（要么你道歉，要么我走）
+4. 否定句里的"也不"——这是最容易用错的地方
+
+肯定句用 too/also，否定句用 either，位置通常放句尾：
+
+句子	中文
+I like coffee. Me too.	我也喜欢
+I don't like coffee. Me either.	我也不喜欢
+She didn't go, and I didn't go either.	她没去，我也没去
+
+新手最常犯的错是在否定句里说成 "I don't like it too"——地道英语里这是不对的，必须是 either。
+
+5. 和 neither 的区别
+
+neither 自带否定，either 不带：
+
+Neither of them is right.（他俩都不对，neither 本身已经是否定）
+Either of them isn't right.（一般不这么说，听起来别扭；地道说法还是用 neither）
+
+一句话总结：看到 either 修饰单数名词、表示"选一个"→ 用"任一"理解；看到它出现在否定句句尾、呼应前面的 not → 用"也不"理解；看到它修饰 side/end 这类对称名词 → 理解成"两者都"。 三种场景语感练多了自然就分得清了。
 list = [
 [1319,"how about ic.","<c>How about</c> we take a break now?","..怎么样"],
 [1320,"how about n.","<c>How about</c> going for a walk?","..怎么样"],

@@ -36,7 +36,7 @@ list = [
 [1018,"finish the book","","I bet you won't <c>finish the book</c> in one day.","读完书"],
 [1019,"fire so.","","","解雇.."],
 [1020,"fire up so.","","","使..热血沸腾起来"],
-[1021,"first and foremost","<n>first of all<br>first things first</n>","","首先"],
+
 [1022,"first meet so.","","","初见.."],
 [1023,"fistfight so.","","","和..拳斗"],
 [1024,"fit into sth.","","","融入.."],
@@ -414,7 +414,6 @@ list = [
 [1391,"hug the wall","","The cat <c>hugged the wall</c> to sneak past the dog.","贴着墙移动"],
 [1392,"hurt like hell","","My head <c>hurts like hell</c> after last night's party.","疼得要命"],
 [1393,"hurt so.","","Her comments really <c>hurt</c> my feelings.","伤害.."],
-[1394,"hustle to vp.","<n>try to vp.<br>strive to vp.</n>","We have to <c>hustle to</c> finish the project on time.","努力做.."],
 [1395,"hype up sth.","","","炒作.."],
 [1396,"I feel as if ac.","","<c>I feel as if</c> I've known you for years, even though we just met.","我感觉好像.."],
 [1397,"I like how nc.","","<c>I like how</c> the app is easy to use.","我喜欢.."],

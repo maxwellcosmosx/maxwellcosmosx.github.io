@@ -1,1 +1,42 @@
 ***转述***
+时态,转述别人所说的话时,被转述的话需要向过去倒退时态,称之为时态倒退(Backshifting)
+方式,不同的句型的有不同的转述方式
+-------------------------------------------------------
+**时态**
+一般现在时
+"I like coffee." → She said she liked coffee.
+
+现在进行时
+"I am working." → She said she was working.
+
+现在完成时
+"I bought / have bought a car." → He said he had bought a car.
+
+一般过去时
+"I bought / have bought a car." → He said he had bought a car.
+
+过去进行时
+
+
+过去完成时
+
+
+一般将来时
+"I will call you." → She said she would call me.
+
+情态动词
+ (can / may / must)could / might / had to"I can help." → He said he could help.
+
+真理常识
+The teacher said the earth goes around the sun.
+------------------------------------------------------
+**方式**
+3. 时间与地点状语的变化由于转述往往发生在不同的时间或地点，指示代词和时间/地点副词也需要随之转变：this / these → that / thosehere → therenow → then / at that timetoday → that daytomorrow → the next day / the following dayyesterday → the day before / the previous dayago → before
+
+**方式**
+二、 三大句型的转述方式转述不同的句式，引导词和句子结构有所不同：
+1. 陈述句（Statements）结构：主语 + reported verb + (that) + 引导句常用谓语动词：say, tell (sb), mention, explain, claim例句："I am tired," said Mary.→ Mary said (that) she was tired.
+2. 疑问句（Questions）转述疑问句时，句子必须恢复陈述句语序（主语 + 动词），不再使用助动词 do/does/did 的疑问倒装。一般疑问句（Yes/No Questions）：用 if 或 whether 引导。"Do you speak English?" he asked.→ He asked if / whether I spoke English.特殊疑问句（Wh- Questions）：保留原有的疑问词（what, where, why, how 等）。"Where do you live?" she asked.→ She asked where I lived. (注意不是 where did I live)
+3. 祈使句与请求（Commands & Requests）转述祈使句时，不用句子形式，而是使用 不定式结构 (to do / not to do)：结构：tell / ask / order / advise + sb + (not) to do sth命令："Sit down!" the teacher said.→ The teacher told us to sit down.否定命令："Don't touch that," he warned.→ He warned me not to touch that.
+
+三、 丰富表达：高频转述动词（Reporting Verbs）在实际书面表达或口语中，不要只重复使用 say 或 tell。根据说话者的语气选择准确的动词，可以让转述更精准：建议 / 提议：suggest, recommend, propose (后接 -ing 或 that... (should) do)"Let's take a break." → He suggested taking a break.承认 / 否认：admit, deny"I made a mistake." → She admitted that she had made a mistake.承诺 / 拒绝：promise, refuse (后接 to do)"I won't be late." → He promised not to be late.

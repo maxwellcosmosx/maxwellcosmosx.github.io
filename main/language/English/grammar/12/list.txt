@@ -1,6 +1,16 @@
+替代表达
+(核心词汇 so)
+much more so/even more so/even less so/much less so
+The job is difficult for beginners, and much more so for people with no experience.
+He's popular with young people, and even more so with teenagers.
+I'm not interested in sports, and even less so in football.
+Tom is angry, and Mary is even more so.
+
+使役动词
 ask so. to do
 tell so. to do
-
+[1010,"require so. to vp.","","","要求..做.."],
+<br>get so. to vp.
 
 as的全用法
 
@@ -109,3 +119,1412 @@ Arithmetic
 Analysis
 Statistics
 Probability
+
+常见句首副词 / 副词短语
+适用：美剧/英剧、新闻、工作英语
+
+★★★★★ = 极常见
+★★★★☆ = 很常见
+★★★☆☆ = 常见，但偏正式或特定场景
+
+
+==============================
+一、时间 / 当前状态
+==============================
+
+1. now
+含义：现在
+常见度：★★★★★
+例句：
+Now, we need to make a decision.
+
+2. right now
+含义：现在；此刻
+常见度：★★★★★
+例句：
+Right now, I don't have enough information.
+
+3. at the moment
+含义：目前；此刻
+常见度：★★★★★
+例句：
+At the moment, we're waiting for the results.
+
+4. at present
+含义：目前
+常见度：★★★★☆
+例句：
+At present, we don't have enough information.
+
+5. currently
+含义：目前；当前
+常见度：★★★★☆
+例句：
+Currently, we're looking for a new supplier.
+
+6. these days
+含义：如今；近来
+常见度：★★★★★
+例句：
+These days, more people work from home.
+
+7. nowadays
+含义：如今
+常见度：★★★★☆
+例句：
+Nowadays, it's much easier to work remotely.
+
+8. today
+含义：今天；现今
+常见度：★★★★★
+例句：
+Today, we're going to discuss the results.
+
+9. yesterday
+含义：昨天
+常见度：★★★★★
+例句：
+Yesterday, I met an old friend.
+
+10. tomorrow
+含义：明天
+常见度：★★★★★
+例句：
+Tomorrow, I'll call the client.
+
+11. recently
+含义：最近
+常见度：★★★★★
+例句：
+Recently, we've had a lot of problems.
+
+12. lately
+含义：最近
+常见度：★★★★☆
+例句：
+Lately, I've been really busy.
+
+13. soon
+含义：很快；不久
+常见度：★★★★★
+例句：
+Soon, you'll get used to it.
+
+14. shortly
+含义：不久；很快
+常见度：★★★★☆
+例句：
+Shortly, we'll explain how the system works.
+
+15. eventually
+含义：最终
+常见度：★★★★★
+例句：
+Eventually, we found a solution.
+
+16. finally
+含义：终于；最后
+常见度：★★★★★
+例句：
+Finally, we reached an agreement.
+
+17. in the end
+含义：最后；最终
+常见度：★★★★★
+例句：
+In the end, we decided to stay.
+
+18. for now
+含义：暂时；目前
+常见度：★★★★★
+例句：
+For now, let's leave it there.
+
+19. for the time being
+含义：暂时
+常见度：★★★★☆
+例句：
+For the time being, we'll stay here.
+
+20. so far
+含义：到目前为止
+常见度：★★★★★
+例句：
+So far, everything is going well.
+
+21. up to now
+含义：到目前为止
+常见度：★★★★☆
+例句：
+Up to now, we haven't had any problems.
+
+22. until now
+含义：直到现在
+常见度：★★★★☆
+例句：
+Until now, nobody has complained.
+
+23. from now on
+含义：从现在起
+常见度：★★★★★
+例句：
+From now on, we'll do things differently.
+
+24. from then on
+含义：从那以后
+常见度：★★★★☆
+例句：
+From then on, he never spoke to me again.
+
+25. back then
+含义：那时候
+常见度：★★★★★
+例句：
+Back then, things were very different.
+
+26. at first
+含义：起初
+常见度：★★★★★
+例句：
+At first, I didn't understand what he meant.
+
+27. in the beginning
+含义：一开始
+常见度：★★★★★
+例句：
+In the beginning, it was difficult.
+
+28. in the meantime
+含义：与此同时；在此期间
+常见度：★★★★★
+例句：
+In the meantime, you can wait here.
+
+29. meanwhile
+含义：与此同时
+常见度：★★★★★
+例句：
+Meanwhile, the police were investigating.
+
+30. at the same time
+含义：同时；另一方面
+常见度：★★★★★
+例句：
+At the same time, we need to be realistic.
+
+31. all of a sudden
+含义：突然
+常见度：★★★★★
+例句：
+All of a sudden, the lights went out.
+
+32. suddenly
+含义：突然
+常见度：★★★★★
+例句：
+Suddenly, everyone started running.
+
+33. in the long run
+含义：从长远来看
+常见度：★★★★☆
+例句：
+In the long run, this will save us money.
+
+34. in the short term
+含义：短期内
+常见度：★★★★☆
+例句：
+In the short term, we may have some problems.
+
+35. in the long term
+含义：长期来看
+常见度：★★★★☆
+例句：
+In the long term, this should benefit everyone.
+
+36. sooner or later
+含义：迟早
+常见度：★★★★★
+例句：
+Sooner or later, you'll have to make a decision.
+
+37. once
+含义：一旦；曾经
+常见度：★★★★★
+例句：
+Once, I lived in London.
+
+38. previously
+含义：以前；此前
+常见度：★★★★☆
+例句：
+Previously, we had used a different system.
+
+39. formerly
+含义：以前；从前
+常见度：★★★☆☆
+例句：
+Formerly, the building was used as a school.
+
+40. at the time
+含义：当时
+常见度：★★★★★
+例句：
+At the time, I didn't know what was happening.
+
+[928,"the river dry up","","After months of drought, the river has dried up completely.","河流干涸"],
+[928,"savings dry up","","After months of drought, the river has dried up completely.","积蓄枯竭"],
+[928,"funding dries up","","After months of drought, the river has dried up completely.","资金枯竭"],
+[928,"ideas dry up","","After months of drought, the river has dried up completely.","想法枯竭"],
+[929,"due to sth.","because of sth.<br>on account of sth.","The event was canceled due to safety concerns.","由于.."],
+[83,"anyone else out there","","","其他人"],
+[83,"the faucet is dripping","","","水龙头在滴水"],
+[83,"one's mind go blank","","","大脑一片空白"],
+[76,"and better yet","","The hotel is close to the beach, and better yet, it includes free breakfaapt.","更好的是"],
+[77,"and immediately after that","and right fater that<br>and straight after that","","紧接着"],
+[78,"and on top of that","what's more","","更甚至"],
+[79,"and so on","and so forth<br>et cetera","The store sells clothes, shoes, bags, and so on.","等等"],
+[80,"and yet","but","She studied hard for the exam, and yet she didn't pass.","但是"],
+[75,"and as if that wasn't enough","","I was already stressed about work, and as if that wasn't enough, my car broke down.","更糟的是"],
+The windows fogged up
+The economy has stagnated
+The total came to 200 euros
+The roof caved in.
+Nothing comes to mind right now
+Experiments back up his theory
+The evidence backs up her claim.
+passion has been soured
+The room comes with a private bathroom.
+Your name came up in the meeting
+Christmas is coming up soon.
+good luck comes your way
+trouble comes his way
+The tide is coming in.
+The tide is coming out.
+[70,"all scn. of us","","All three of us enjoyed the movie.","我们这..个人"],
+[71,"all the way back to acp.","","","回..的路上一直"],
+[72,"all the way to acp.","","He drove all the way to school.","去..的路上一直"],
+[73,"all the way until at.","","She stayed all the way until the end of the movie.","在..之前都一直"],
+[69,"all of a sudden","suddenly","All of a sudden, the lights went out.","突然"],
+[67,"all in all","in summary<br>in conclusion<br>to sum up","All in all, the trip was good, though the weather could've been better.","总体上来讲"],
+[60,"ahead of at.","before at.","We need to stock up on firewood ahead of winter.","在..之前"],
+[54,"after hours of back and forth","","After hours of back and forth, they finally reached an agreement.","你来我往之后"],
+[20,"according to the data","based on the data","According to the data, prices will rise in the future.","根据数据可知"],
+[13,"above all else","","Above all else, remember to stay calm.","另外最重要的是"],
+[1021,"first and foremost","first of all<br>first things first","","首先"],
+[138,"at Christmas","","We decorate the house at Christmas.","在圣诞节"],
+[137,"at breakfast","at lunch<br>at dinner","We discussed our plans at breakfast.","在吃三餐时"],
+[143,"at night","at noon<br>at twilight","The streets are quiet at night.","在晚上"],
+[146,"at present","","","现在"],
+[146,"That's way over my head.","","","太高级了我听不懂"],
+[146,"it's not worth repairing","","","没修的必要了"],
+[820,"de facto","","He runs the company de facto, even though his brother is the CEO.","事实上"],
+[146,"It comes down to ..","","","说到底还是..的问题"],
+[155,"at this rate","if this continues<br>if this keeps up<br>if things keep going like this","","照这样下去"],
+[843,"depending on sth.","","The price varies depending on the season.","根据.."],
+[98,"apt. ago","apt. back","I graduated a few months ago.","..之前"],
+[105,"as a rule of thumb","","As a rule of thumb, you should always proofread your work before submitting it.","根据经验来讲"],
+[106,"as a whole","","The country is doing better economically as a whole.","总体上来看"],
+[107,"the way I see it","in my view<br>from my perspective","","在我看来"],
+[108,"as far as I know","as I understand it<br>to my knowledge","As far as I know, the store accepts credit cards.","据我了解"],
+[109,"as for sth.","when it comes to sth.","I enjoyed the movie. As for the ending, I found it a bit disappointing.","至于.."],
+[110,"as I understand it","from what I understand","","我个人的理解是"],
+[112,"as in","","I mean bank, as in the river bank.","意思就是说.."],
+[113,"as long as I can remember","","","从我记事起"],
+[114,"as of now","","As of now, I don't have any additional information to share.","目前为止"],
+[122,"the same as so.","just like so.","","就和..一样"],
+[122,"given time","","Given time, you will adapt to the new environment.","给点时间"],
+[127,"I just hope to God that dc.","","","但愿.."],
+[127,"It'll click for so. at some point","","","..迟早会想通的"],
+[135,"at all costs","at any cost<br>by all means<br>at any price","She was determined to win the race at all costs.","不惜一切代价"],
+[962,"every time ac.","","Every time he eats spicy food, he starts sweating.","每次..的时候"],
+[968,"except for one thing","","The project was a success, except for one thing: we went over budget.","唯一的例外是"],
+[970,"everything was fine except that dc.","","Everything was fine except that we were late.","除了..都挺好"],
+[970,"everything was fine except for the weather","","","除了天气都挺好"],
+[1015,"it won't take too long","","","花不了太久"],
+[117,"as time goes by","as time moves on","As time goes by, you'll get used to it.","随着时间流逝"],
+[118,"as with sth.","","As with any business, customer satisfaction is crucial for success.","就和..一样"],
+==============================
+二、频率 / 一般情况
+==============================
+
+41. usually
+含义：通常
+常见度：★★★★★
+例句：
+Usually, I get up early.
+
+42. normally
+含义：通常；正常情况下
+常见度：★★★★★
+例句：
+Normally, we start at nine.
+
+43. generally
+含义：一般来说；总体上
+常见度：★★★★★
+例句：
+Generally, people prefer simpler solutions.
+
+44. generally speaking
+含义：一般来说
+常见度：★★★★★
+例句：
+Generally speaking, it's a good idea.
+
+45. typically
+含义：通常；典型地
+常见度：★★★★☆
+例句：
+Typically, the process takes about two weeks.
+
+46. often
+含义：经常
+常见度：★★★★★
+例句：
+Often, we forget the simplest solution.
+
+47. sometimes
+含义：有时
+常见度：★★★★★
+例句：
+Sometimes, things don't go as planned.
+
+48. occasionally
+含义：偶尔
+常见度：★★★★☆
+例句：
+Occasionally, we have problems with the system.
+
+49. rarely
+含义：很少
+常见度：★★★★☆
+例句：
+Rarely do we see such a big change.
+
+50. hardly ever
+含义：几乎从不
+常见度：★★★★★
+例句：
+Hardly ever do we get complaints like this.
+
+51. almost always
+含义：几乎总是
+常见度：★★★★★
+例句：
+Almost always, the simplest solution works best.
+
+52. almost never
+含义：几乎从不
+常见度：★★★★★
+例句：
+Almost never do they arrive on time.
+
+53. every now and then
+含义：偶尔
+常见度：★★★★☆
+例句：
+Every now and then, I go out for dinner.
+
+54. from time to time
+含义：偶尔
+常见度：★★★★☆
+例句：
+From time to time, we have to update the system.
+
+55. once in a while
+含义：偶尔
+常见度：★★★★★
+例句：
+Once in a while, I like to eat out.
+
+56. as usual
+含义：像往常一样
+常见度：★★★★★
+例句：
+As usual, he's late.
+
+57. as always
+含义：一如既往
+常见度：★★★★★
+例句：
+As always, she's very helpful.
+
+58. for the most part
+含义：大部分情况下
+常见度：★★★★☆
+例句：
+For the most part, everything went smoothly.
+
+59. by and large
+含义：总体来说
+常见度：★★★☆☆
+例句：
+By and large, the results were positive.
+
+60. in general
+含义：一般来说；总体上
+常见度：★★★★★
+例句：
+In general, people don't like change.
+
+
+==============================
+三、地点 / 范围
+==============================
+
+61. here
+含义：在这里；在这一点上
+常见度：★★★★★
+例句：
+Here, you can see the main difference.
+
+62. there
+含义：在那里；在那种情况下
+常见度：★★★★★
+例句：
+There, we had to make a quick decision.
+
+63. nearby
+含义：附近
+常见度：★★★★☆
+例句：
+Nearby, there's a small restaurant.
+
+64. abroad
+含义：在国外
+常见度：★★★★☆
+例句：
+Abroad, things can work differently.
+
+65. at home
+含义：在家；在本国
+常见度：★★★★★
+例句：
+At home, I usually work in the evening.
+
+66. online
+含义：在线上
+常见度：★★★★★
+例句：
+Online, you can find more information.
+
+67. on site
+含义：在现场
+常见度：★★★★☆
+例句：
+On site, we found several problems.
+
+68. in the office
+含义：在办公室
+常见度：★★★★★
+例句：
+In the office, we use this system every day.
+
+69. around the world
+含义：全世界
+常见度：★★★★★
+例句：
+Around the world, people are facing similar problems.
+
+70. worldwide
+含义：全世界范围内
+常见度：★★★★☆
+例句：
+Worldwide, the company employs over ten thousand people.
+
+71. locally
+含义：在当地
+常见度：★★★★☆
+例句：
+Locally, the business is very successful.
+
+72. nationally
+含义：在全国范围内
+常见度：★★★★☆
+例句：
+Nationally, the issue has received a lot of attention.
+
+73. internationally
+含义：在国际范围内
+常见度：★★★★☆
+例句：
+Internationally, the company has a strong reputation.
+
+74. in this area
+含义：在这个领域 / 地区
+常见度：★★★★☆
+例句：
+In this area, prices are quite high.
+
+75. in this region
+含义：在这个地区
+常见度：★★★★☆
+例句：
+In this region, unemployment is relatively low.
+
+
+==============================
+四、条件 / 假设
+==============================
+
+76. if necessary
+含义：如有必要
+常见度：★★★★★
+例句：
+If necessary, we can change the plan.
+
+77. if possible
+含义：如果可能的话
+常见度：★★★★★
+例句：
+If possible, I'd like to finish today.
+
+78. if needed
+含义：如果需要
+常见度：★★★★★
+例句：
+If needed, I'll help you with the report.
+
+79. if not
+含义：如果不是；否则
+常见度：★★★★★
+例句：
+If not, we'll try another option.
+
+80. otherwise
+含义：否则；不然
+常见度：★★★★★
+例句：
+Otherwise, we may miss the deadline.
+
+81. in that case
+含义：那样的话
+常见度：★★★★★
+例句：
+In that case, let's wait.
+
+82. in this case
+含义：在这种情况下
+常见度：★★★★★
+例句：
+In this case, we need more information.
+
+83. in any case
+含义：无论如何；不管怎样
+常见度：★★★★★
+例句：
+In any case, we need to be careful.
+
+84. in any event
+含义：无论如何
+常见度：★★★★☆
+例句：
+In any event, we need to finish this today.
+
+85. either way
+含义：不管怎样；无论哪种方式
+常见度：★★★★★
+例句：
+Either way, we'll have to pay for it.
+
+86. in that event
+含义：如果发生那种情况
+常见度：★★★☆☆
+例句：
+In that event, we would need more staff.
+
+87. under these circumstances
+含义：在这种情况下
+常见度：★★★☆☆
+例句：
+Under these circumstances, we had no choice.
+
+88. depending on the situation
+含义：视情况而定
+常见度：★★★★☆
+例句：
+Depending on the situation, we may need more staff.
+
+89. depending on
+含义：取决于
+常见度：★★★★★
+例句：
+Depending on the weather, we may cancel the trip.
+
+90. as long as
+含义：只要
+常见度：★★★★★
+例句：
+As long as we're careful, we'll be fine.
+
+91. provided that
+含义：只要；假如
+常见度：★★★☆☆
+例句：
+Provided that everything goes well, we'll finish tomorrow.
+
+92. assuming that
+含义：假设
+常见度：★★★★☆
+例句：
+Assuming that he's right, what should we do?
+
+93. in case
+含义：以防；如果
+常见度：★★★★★
+例句：
+In case you need it, I'll leave my number.
+
+94. in case of
+含义：如果发生
+常见度：★★★★☆
+例句：
+In case of emergency, call 112.
+
+95. when necessary
+含义：必要时
+常见度：★★★★☆
+例句：
+When necessary, we can provide additional support.
+
+96. whenever possible
+含义：只要可能
+常见度：★★★★★
+例句：
+Whenever possible, I try to walk to work.
+
+97. where necessary
+含义：必要时
+常见度：★★★★☆
+例句：
+Where necessary, changes will be made.
+
+98. where possible
+含义：可能的话
+常见度：★★★★☆
+例句：
+Where possible, we'll try to reduce costs.
+
+99. if anything
+含义：如果说有什么的话；反而
+常见度：★★★★☆
+例句：
+If anything, the situation has improved.
+
+100. all else being equal
+含义：其他条件相同的情况下
+常见度：★★★☆☆
+例句：
+All else being equal, I'd choose the cheaper option.
+
+
+==============================
+五、原因 / 结果
+==============================
+
+101. because of this
+含义：因为这个；由于这一点
+常见度：★★★★★
+例句：
+Because of this, we had to change the plan.
+
+102. because of that
+含义：因为那个；由于那件事
+常见度：★★★★★
+例句：
+Because of that, I decided to leave.
+
+103. for this reason
+含义：由于这个原因
+常见度：★★★★★
+例句：
+For this reason, we decided to wait.
+
+104. for that reason
+含义：由于那个原因
+常见度：★★★★☆
+例句：
+For that reason, we chose another option.
+
+105. due to this
+含义：由于这一点
+常见度：★★★☆☆
+例句：
+Due to this, the project was delayed.
+
+106. as a result
+含义：因此；结果
+常见度：★★★★★
+例句：
+As a result, we lost a lot of time.
+
+107. as a consequence
+含义：因此；结果
+常见度：★★★★☆
+例句：
+As a consequence, several people lost their jobs.
+
+108. therefore
+含义：因此
+常见度：★★★★★
+例句：
+Therefore, we need to act quickly.
+
+109. thus
+含义：因此；从而
+常见度：★★★☆☆
+例句：
+Thus, the problem was solved.
+
+110. consequently
+含义：因此；所以
+常见度：★★★★☆
+例句：
+Consequently, the company changed its strategy.
+
+111. thanks to this
+含义：多亏了这一点
+常见度：★★★★★
+例句：
+Thanks to this, we were able to finish on time.
+
+112. thanks to that
+含义：多亏了那件事
+常见度：★★★★☆
+例句：
+Thanks to that, we avoided a serious problem.
+
+113. as such
+含义：因此；作为这种情况
+常见度：★★★★☆
+例句：
+As such, we need to treat it seriously.
+
+114. accordingly
+含义：因此；相应地
+常见度：★★★☆☆
+例句：
+Accordingly, we changed our plans.
+
+115. hence
+含义：因此；由此
+常见度：★★★☆☆
+例句：
+Hence, the need for further investigation.
+
+116. thereby
+含义：从而
+常见度：★★★☆☆
+例句：
+Thereby, we can reduce the overall cost.
+
+117. for that matter
+含义：就那件事而言；同样
+常见度：★★★★☆
+例句：
+For that matter, I don't think anyone knows the answer.
+
+118. in turn
+含义：反过来；依次
+常见度：★★★★☆
+例句：
+This, in turn, creates new problems.
+
+119. as a consequence of this
+含义：由于这一点
+常见度：★★★☆☆
+例句：
+As a consequence of this, prices increased.
+
+120. as a result of this
+含义：由于这一点；因此
+常见度：★★★★☆
+例句：
+As a result of this, we had to change the schedule.
+
+
+==============================
+六、转折 / 让步 / 对比
+==============================
+
+121. however
+含义：然而；不过
+常见度：★★★★★
+例句：
+However, there is one problem.
+
+122. nevertheless
+含义：尽管如此
+常见度：★★★★☆
+例句：
+Nevertheless, we decided to go ahead.
+
+123. nonetheless
+含义：尽管如此
+常见度：★★★★☆
+例句：
+Nonetheless, I think it's worth trying.
+
+124. still
+含义：不过；尽管如此
+常见度：★★★★★
+例句：
+Still, I think we should try.
+
+125. even so
+含义：即便如此
+常见度：★★★★★
+例句：
+Even so, we need to be careful.
+
+126. on the other hand
+含义：另一方面
+常见度：★★★★★
+例句：
+On the other hand, it's much cheaper.
+
+127. in contrast
+含义：相比之下
+常见度：★★★★☆
+例句：
+In contrast, the second option is much simpler.
+
+128. by contrast
+含义：相比之下
+常见度：★★★★☆
+例句：
+By contrast, the new system is much faster.
+
+129. in comparison
+含义：相比之下
+常见度：★★★★☆
+例句：
+In comparison, the old system was very slow.
+
+130. compared with
+含义：与……相比
+常见度：★★★★★
+例句：
+Compared with last year, sales are much higher.
+
+131. compared to
+含义：与……相比
+常见度：★★★★★
+例句：
+Compared to the old version, this one is much better.
+
+132. at the same time
+含义：同时；另一方面
+常见度：★★★★★
+例句：
+At the same time, we need to be realistic.
+
+133. although
+含义：虽然
+常见度：★★★★★
+例句：
+Although it's expensive, it's worth it.
+
+134. even though
+含义：尽管
+常见度：★★★★★
+例句：
+Even though it was difficult, we continued.
+
+135. even if
+含义：即使
+常见度：★★★★★
+例句：
+Even if it rains, we'll go.
+
+136. despite this
+含义：尽管如此
+常见度：★★★★☆
+例句：
+Despite this, we decided to continue.
+
+137. despite that
+含义：尽管如此
+常见度：★★★★☆
+例句：
+Despite that, he refused to give up.
+
+138. regardless
+含义：不管怎样
+常见度：★★★★★
+例句：
+Regardless, we need to move forward.
+
+139. regardless of
+含义：不管；无论
+常见度：★★★★★
+例句：
+Regardless of the cost, we need to fix it.
+
+140. after all
+含义：毕竟；终究
+常见度：★★★★★
+例句：
+After all, it's your decision.
+
+
+==============================
+七、补充 / 递进 / 强调
+==============================
+
+141. also
+含义：也；此外
+常见度：★★★★★
+例句：
+Also, we need to consider the cost.
+
+142. besides
+含义：此外；而且
+常见度：★★★★★
+例句：
+Besides, we don't have enough time.
+
+143. in addition
+含义：此外
+常见度：★★★★★
+例句：
+In addition, we need more staff.
+
+144. additionally
+含义：此外
+常见度：★★★★☆
+例句：
+Additionally, the report includes new data.
+
+145. furthermore
+含义：此外；而且
+常见度：★★★☆☆
+例句：
+Furthermore, the proposal is too expensive.
+
+146. moreover
+含义：此外；而且
+常见度：★★★☆☆
+例句：
+Moreover, there are serious risks.
+
+147. what's more
+含义：而且；更重要的是
+常见度：★★★★★
+例句：
+What's more, it's completely free.
+
+148. in fact
+含义：事实上；其实
+常见度：★★★★★
+例句：
+In fact, I already knew about it.
+
+149. actually
+含义：实际上；其实
+常见度：★★★★★
+例句：
+Actually, I don't agree.
+
+150. above all
+含义：最重要的是
+常见度：★★★★★
+例句：
+Above all, we need to stay calm.
+
+151. at least
+含义：至少
+常见度：★★★★★
+例句：
+At least, we know what happened.
+
+152. at least for now
+含义：至少目前如此
+常见度：★★★★★
+例句：
+At least for now, everything is under control.
+
+153. in particular
+含义：尤其；特别
+常见度：★★★★★
+例句：
+In particular, we need to look at the costs.
+
+154. especially
+含义：尤其
+常见度：★★★★★
+例句：
+Especially, when you're dealing with customers, patience is important.
+
+155. for example
+含义：例如
+常见度：★★★★★
+例句：
+For example, you could try restarting the system.
+
+156. for instance
+含义：例如
+常见度：★★★★★
+例句：
+For instance, we could start with a smaller project.
+
+157. in addition to this
+含义：除此之外
+常见度：★★★★☆
+例句：
+In addition to this, we need more time.
+
+158. on top of that
+含义：除此之外；更糟/更重要的是
+常见度：★★★★★
+例句：
+On top of that, we had to pay extra.
+
+159. to make matters worse
+含义：更糟糕的是
+常见度：★★★★☆
+例句：
+To make matters worse, it started raining.
+
+160. not only that
+含义：不仅如此
+常见度：★★★★★
+例句：
+Not only that, but we also lost money.
+
+
+==============================
+八、话题转换 / 组织信息
+==============================
+
+161. first of all
+含义：首先
+常见度：★★★★★
+例句：
+First of all, let's look at the facts.
+
+162. first
+含义：首先
+常见度：★★★★★
+例句：
+First, we need to understand the problem.
+
+163. secondly
+含义：其次
+常见度：★★★★☆
+例句：
+Secondly, we need more evidence.
+
+164. finally
+含义：最后
+常见度：★★★★★
+例句：
+Finally, let's discuss the next step.
+
+165. anyway
+含义：不管怎样；总之；话说回来
+常见度：★★★★★
+例句：
+Anyway, let's get back to the main issue.
+
+166. by the way
+含义：顺便说一下
+常见度：★★★★★
+例句：
+By the way, did you call John?
+
+167. as for
+含义：至于
+常见度：★★★★★
+例句：
+As for the price, we'll discuss it later.
+
+168. regarding
+含义：关于
+常见度：★★★★☆
+例句：
+Regarding your question, the answer is no.
+
+169. concerning
+含义：关于
+常见度：★★★☆☆
+例句：
+Concerning the schedule, nothing has changed.
+
+170. when it comes to
+含义：说到；谈到
+常见度：★★★★★
+例句：
+When it comes to safety, we can't take risks.
+
+171. in terms of
+含义：就……而言
+常见度：★★★★★
+例句：
+In terms of cost, this is the best option.
+
+172. as far as
+含义：就……而言；至于
+常见度：★★★★★
+例句：
+As far as I'm concerned, we should wait.
+
+173. as far as I know
+含义：据我所知
+常见度：★★★★★
+例句：
+As far as I know, he's still working there.
+
+174. as far as I'm concerned
+含义：就我而言
+常见度：★★★★★
+例句：
+As far as I'm concerned, it's a good idea.
+
+175. speaking of
+含义：说到……
+常见度：★★★★★
+例句：
+Speaking of John, have you heard from him?
+
+176. talking of
+含义：说到……
+常见度：★★★★☆
+例句：
+Talking of work, did you finish the report?
+
+177. on that point
+含义：关于这一点
+常见度：★★★★☆
+例句：
+On that point, I completely agree.
+
+178. in this regard
+含义：在这一点上
+常见度：★★★★☆
+例句：
+In this regard, we need more information.
+
+179. with regard to
+含义：关于
+常见度：★★★★☆
+例句：
+With regard to your request, we'll get back to you soon.
+
+180. as mentioned earlier
+含义：如前面提到的
+常见度：★★★★☆
+例句：
+As mentioned earlier, the deadline is Friday.
+
+
+==============================
+九、观点 / 态度 / 语气
+==============================
+
+181. in my opinion
+含义：在我看来
+常见度：★★★★★
+例句：
+In my opinion, we should wait.
+
+182. in my view
+含义：在我看来
+常见度：★★★★☆
+例句：
+In my view, the plan is too risky.
+
+183. from my point of view
+含义：从我的角度来看
+常见度：★★★★☆
+例句：
+From my point of view, we have two choices.
+
+184. personally
+含义：就我个人而言
+常见度：★★★★★
+例句：
+Personally, I prefer the first option.
+
+185. frankly
+含义：坦白说
+常见度：★★★★☆
+例句：
+Frankly, I don't understand the decision.
+
+186. honestly
+含义：说实话
+常见度：★★★★★
+例句：
+Honestly, I don't know.
+
+187. to be honest
+含义：说实话
+常见度：★★★★★
+例句：
+To be honest, I don't really care.
+
+188. to be fair
+含义：公平地说；说句公道话
+常见度：★★★★★
+例句：
+To be fair, he did warn us.
+
+189. fortunately
+含义：幸运的是
+常见度：★★★★★
+例句：
+Fortunately, nobody was hurt.
+
+190. unfortunately
+含义：不幸的是；遗憾的是
+常见度：★★★★★
+例句：
+Unfortunately, we can't accept the offer.
+
+191. apparently
+含义：据说；看来
+常见度：★★★★★
+例句：
+Apparently, he's leaving the company.
+
+192. obviously
+含义：显然
+常见度：★★★★★
+例句：
+Obviously, we need more time.
+
+193. clearly
+含义：显然；清楚地
+常见度：★★★★★
+例句：
+Clearly, something went wrong.
+
+194. basically
+含义：基本上；简单来说
+常见度：★★★★★
+例句：
+Basically, we need to start again.
+
+195. technically
+含义：严格来说；从技术上说
+常见度：★★★★★
+例句：
+Technically, you're right.
+
+196. strictly speaking
+含义：严格来说
+常见度：★★★★☆
+例句：
+Strictly speaking, that's not correct.
+
+197. no doubt
+含义：毫无疑问
+常见度：★★★★☆
+例句：
+No doubt, this will cause problems.
+
+198. of course
+含义：当然
+常见度：★★★★★
+例句：
+Of course, we can help you.
+
+199. overall
+含义：总体而言
+常见度：★★★★★
+例句：
+Overall, the results were very positive.
+
+200. all in all
+含义：总的来说
+常见度：★★★★★
+例句：
+All in all, it was a good experience.
+
+
+==============================
+特别重要：优先掌握
+==============================
+
+如果你的目标是：
+
+1. 看电视剧
+2. 听新闻
+3. 工作沟通
+4. 提高英语听力
+5. 自己说得更自然
+
+那么不需要一开始把 200 个全部背下来。
+
+第一优先级：
+
+now
+right now
+at the moment
+these days
+recently
+soon
+eventually
+finally
+in the end
+for now
+so far
+from now on
+at first
+in the meantime
+meanwhile
+usually
+normally
+generally
+sometimes
+as usual
+if necessary
+if possible
+if not
+otherwise
+in that case
+in any case
+either way
+depending on
+as long as
+in case
+as a result
+therefore
+however
+still
+even so
+on the other hand
+at the same time
+although
+even though
+even if
+despite this
+after all
+also
+besides
+in fact
+actually
+at least
+for example
+what's more
+on top of that
+anyway
+by the way
+as for
+when it comes to
+in terms of
+as far as I know
+in my opinion
+personally
+honestly
+to be honest
+to be fair
+apparently
+obviously
+basically
+technically
+of course
+overall
+all in all

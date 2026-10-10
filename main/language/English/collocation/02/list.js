@@ -1,0 +1,17 @@
+list = [
+[3,"a is a vector","","",""],
+[3,"the coefficient of each term is a complex number","","",""],
+[3,"Each entry of matrix A is a complex number","","",""],
+[3,"a is a scalar","","",""],
+[1,"the eigenvalue of Z for the eigenstate |0> is 1","","","Z关于态|0>的本征值是1"],
+[1,"two qubits are entangled","","","两个量子比特纠缠"],
+[1,"sound propagates through a medium","","","声音在介质中传播"],
+[1,"light can propagate in a vacuum","","","光能在真空中传播"],
+[1,"a ket corresponds to a column vector in matrix representaion","","","在矩阵表象下,右矢对应一个列向量"],
+[1,"a bra corresponds to a row vector in matrix representaion","","","在矩阵表象下,左矢对应一个行向量"],
+[1,"a ket represents a vector in a complex Hilbert space","","","右矢是复希尔伯特空间中的一个矢量"],
+[1,"A is a 3 by 2 matrix","","","A是个3x2矩阵"],
+[1,"the qubit is in the state |+>","","","该量子比特处于|+>态"],
+[1,"A commutes with B","","",""],
+[1,"it suffices to show that","","","只需证明.."],
+]

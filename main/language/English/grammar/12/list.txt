@@ -56,7 +56,7 @@ Neither of them is right.（他俩都不对，neither 本身已经是否定）
 Either of them isn't right.（一般不这么说，听起来别扭；地道说法还是用 neither）
 
 一句话总结：看到 either 修饰单数名词、表示"选一个"→ 用"任一"理解；看到它出现在否定句句尾、呼应前面的 not → 用"也不"理解；看到它修饰 side/end 这类对称名词 → 理解成"两者都"。 三种场景语感练多了自然就分得清了。
-list = [
+
 [1319,"how about ic.","<c>How about</c> we take a break now?","..怎么样"],
 [1320,"how about n.","<c>How about</c> going for a walk?","..怎么样"],
 [1321,"how are you going to assume nc.","<c>How are you going to assume</c> I would do something like that?","你凭什么认为"],
@@ -86,7 +86,6 @@ list = [
 [1422,"in what sense nc.","<c>In what sense</c> do you mean that this is a bad idea?","凭什么 类似于why"],
 [1436,"is it possible that nc.","<c>Is it possible that</c> the meeting will be postponed?","有没有可能"],
 [1437,"is there something wrong with n.","<c>Is there something wrong with</c> talking with him?","..有错吗"],
-]
 
 Axiom
 
@@ -371,79 +370,6 @@ Formerly, the building was used as a school.
 常见度：★★★★★
 例句：
 At the time, I didn't know what was happening.
-
-[928,"the river dry up","","After months of drought, the river has dried up completely.","河流干涸"],
-[928,"savings dry up","","After months of drought, the river has dried up completely.","积蓄枯竭"],
-[928,"funding dries up","","After months of drought, the river has dried up completely.","资金枯竭"],
-[928,"ideas dry up","","After months of drought, the river has dried up completely.","想法枯竭"],
-[929,"due to sth.","because of sth.<br>on account of sth.","The event was canceled due to safety concerns.","由于.."],
-[83,"anyone else out there","","","其他人"],
-[83,"the faucet is dripping","","","水龙头在滴水"],
-[83,"one's mind go blank","","","大脑一片空白"],
-[76,"and better yet","","The hotel is close to the beach, and better yet, it includes free breakfaapt.","更好的是"],
-[77,"and immediately after that","and right fater that<br>and straight after that","","紧接着"],
-[78,"and on top of that","what's more","","更甚至"],
-[79,"and so on","and so forth<br>et cetera","The store sells clothes, shoes, bags, and so on.","等等"],
-[80,"and yet","but","She studied hard for the exam, and yet she didn't pass.","但是"],
-[75,"and as if that wasn't enough","","I was already stressed about work, and as if that wasn't enough, my car broke down.","更糟的是"],
-The windows fogged up
-The economy has stagnated
-The total came to 200 euros
-The roof caved in.
-Nothing comes to mind right now
-Experiments back up his theory
-The evidence backs up her claim.
-passion has been soured
-The room comes with a private bathroom.
-Your name came up in the meeting
-Christmas is coming up soon.
-good luck comes your way
-trouble comes his way
-The tide is coming in.
-The tide is coming out.
-[70,"all scn. of us","","All three of us enjoyed the movie.","我们这..个人"],
-[71,"all the way back to acp.","","","回..的路上一直"],
-[72,"all the way to acp.","","He drove all the way to school.","去..的路上一直"],
-[73,"all the way until at.","","She stayed all the way until the end of the movie.","在..之前都一直"],
-[69,"all of a sudden","suddenly","All of a sudden, the lights went out.","突然"],
-[67,"all in all","in summary<br>in conclusion<br>to sum up","All in all, the trip was good, though the weather could've been better.","总体上来讲"],
-[60,"ahead of at.","before at.","We need to stock up on firewood ahead of winter.","在..之前"],
-[54,"after hours of back and forth","","After hours of back and forth, they finally reached an agreement.","你来我往之后"],
-[20,"according to the data","based on the data","According to the data, prices will rise in the future.","根据数据可知"],
-[13,"above all else","","Above all else, remember to stay calm.","另外最重要的是"],
-[1021,"first and foremost","first of all<br>first things first","","首先"],
-[138,"at Christmas","","We decorate the house at Christmas.","在圣诞节"],
-[137,"at breakfast","at lunch<br>at dinner","We discussed our plans at breakfast.","在吃三餐时"],
-[143,"at night","at noon<br>at twilight","The streets are quiet at night.","在晚上"],
-[146,"at present","","","现在"],
-[146,"That's way over my head.","","","太高级了我听不懂"],
-[146,"it's not worth repairing","","","没修的必要了"],
-[820,"de facto","","He runs the company de facto, even though his brother is the CEO.","事实上"],
-[146,"It comes down to ..","","","说到底还是..的问题"],
-[155,"at this rate","if this continues<br>if this keeps up<br>if things keep going like this","","照这样下去"],
-[843,"depending on sth.","","The price varies depending on the season.","根据.."],
-[98,"apt. ago","apt. back","I graduated a few months ago.","..之前"],
-[105,"as a rule of thumb","","As a rule of thumb, you should always proofread your work before submitting it.","根据经验来讲"],
-[106,"as a whole","","The country is doing better economically as a whole.","总体上来看"],
-[107,"the way I see it","in my view<br>from my perspective","","在我看来"],
-[108,"as far as I know","as I understand it<br>to my knowledge","As far as I know, the store accepts credit cards.","据我了解"],
-[109,"as for sth.","when it comes to sth.","I enjoyed the movie. As for the ending, I found it a bit disappointing.","至于.."],
-[110,"as I understand it","from what I understand","","我个人的理解是"],
-[112,"as in","","I mean bank, as in the river bank.","意思就是说.."],
-[113,"as long as I can remember","","","从我记事起"],
-[114,"as of now","","As of now, I don't have any additional information to share.","目前为止"],
-[122,"the same as so.","just like so.","","就和..一样"],
-[122,"given time","","Given time, you will adapt to the new environment.","给点时间"],
-[127,"I just hope to God that dc.","","","但愿.."],
-[127,"It'll click for so. at some point","","","..迟早会想通的"],
-[135,"at all costs","at any cost<br>by all means<br>at any price","She was determined to win the race at all costs.","不惜一切代价"],
-[962,"every time ac.","","Every time he eats spicy food, he starts sweating.","每次..的时候"],
-[968,"except for one thing","","The project was a success, except for one thing: we went over budget.","唯一的例外是"],
-[970,"everything was fine except that dc.","","Everything was fine except that we were late.","除了..都挺好"],
-[970,"everything was fine except for the weather","","","除了天气都挺好"],
-[1015,"it won't take too long","","","花不了太久"],
-[117,"as time goes by","as time moves on","As time goes by, you'll get used to it.","随着时间流逝"],
-[118,"as with sth.","","As with any business, customer satisfaction is crucial for success.","就和..一样"],
 ==============================
 二、频率 / 一般情况
 ==============================

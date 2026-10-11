@@ -88,6 +88,5 @@ list = [
 [3,"compute the product of 1 and 2","","",""],
 [3,"maps |0> to |+>","","",""],
 [3,"generalize this to n qubits","","",""],
-
+[3,"Chirality plays an important role in organic chemistry.","","",""],
 ]
- Chirality plays an important role in organic chemistry.

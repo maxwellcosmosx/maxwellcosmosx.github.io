@@ -85,3 +85,13 @@ function highlightColumn() {
     highlightedColumn = parseInt(document.getElementById('column-select').value);
     displayTable(currentPage);
 }
+
+// Function to shuffle the list randomly (Fisher-Yates)
+function shuffleList() {
+    for (let i = list.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [list[i], list[j]] = [list[j], list[i]];
+    }
+    currentPage = 1;
+    displayTable(currentPage);
+}

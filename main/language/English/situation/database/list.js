@@ -1,6 +1,9 @@
 list = [
 [1,"Anyone Home?","有人在家吗?",""],
 [1,"Hello?","有人在吗?",""],
+[122,"the same as so.","just like so.","","就和..一样"],
+[1,"Hello?","有人在吗?",""],
+[146,"That's way over my head.","","","太高级了我听不懂"],
 [2,"Apple doesn't fall far from the tree.","虎父无犬子","夸孩子和家风家教"],
 [3,"Are you being a smartass?","你在自做聪明吗?","看不惯对方自作聪明"],
 [4,"Are you kidding me?","你逗我呢?!","不信听到的消息"],

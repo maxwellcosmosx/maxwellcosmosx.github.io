@@ -1,0 +1,156 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Maxwell Lee</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="../../../../../assets/css/main.css" /> <!-- 1st -->
+		<style>
+			#pdf-viewer {
+				width: 100%;
+				height: 75vh;
+				overflow-y: auto;
+				overflow-x: hidden;
+				border: 1px solid black;
+				background: #e5e5e5;
+				padding: 10px 0;
+				box-sizing: border-box;
+			}
+			#pdf-pages canvas {
+				display: block;
+				margin: 0 auto 10px auto;
+				background: white;
+				box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+			}
+			#pdf-status {
+				text-align: center;
+				color: gray;
+			}
+		</style>
+	</head>
+	<body class="single is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+							<header id="header">
+								<a href="../../../../../index.html" class="logo">Homepage</a> <!-- 2nd -->
+								<ul class="icons">
+									<a href="../../../../../main/repository/main.html" class="logo">&nbsp;&nbsp;Repository&nbsp;&nbsp;</a> <!-- 3rd -->
+									<a href="../../../../../main/language/main.html" class="logo">&nbsp;&nbsp;Language&nbsp;&nbsp;</a> <!-- 4th -->
+								</ul>
+							</header>
+								
+							<h2 id="top">IPA Chart</h2> <!-- 5th -->
+
+							<div id="pdf-viewer">
+								<p id="pdf-status">Loading PDF...</p>
+								<div id="pdf-pages"></div>
+							</div>
+						</div>
+					</div>
+
+				<!-- Sidebar -->
+					<div id="sidebar">
+						<div class="inner">
+							<section>
+							<p style="text-align: center;"><b>Read Me Please</b></p> <!-- 6th -->
+							<i>								
+								<b>so.</b><br>
+								-- someone 某人<br>
+								<b>one's</b><br>
+								-- possessive 某人的<br>
+								<b>oneself</b><br>
+								-- reflexive 某人自己<br>
+								<hr>
+								
+								<b>vp.</b><br>
+								-- verb phrase base form 动词原形<br>						
+								<b>vp_in.</b><br>
+								-- verb phrase ing form 动词 ing 形式<br>
+								<b>vp_pp.</b><br>
+								-- verb phrase past participle 动词过去分词<br>
+								<hr>
+								
+								<b>ic.</b><br>
+								-- interrogative clause 由疑问词引导的从句<br>
+								<b>dc.</b><br>
+								-- declarative clause 由 that 引导的从句<br>
+								<b>ac.</b><br>
+								-- adverbial clause 状语从句<br>		
+								<hr>
+								
+								<b>quo.</b><br>
+								-- quote 包含引号的引用句<br>
+								<hr>
+							</i>
+							</section>
+						</div>
+					</div>
+			</div>
+
+		<!-- Scripts -->
+			<!-- PDF.js -->
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+			<script>
+				var PDF_URL = 'main.pdf';
+
+				pdfjsLib.GlobalWorkerOptions.workerSrc =
+					'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+
+				var viewer = document.getElementById('pdf-viewer');
+				var pagesBox = document.getElementById('pdf-pages');
+				var statusEl = document.getElementById('pdf-status');
+				var pdfDoc = null;
+				var renderToken = 0;
+
+				async function renderAll() {
+					var token = ++renderToken;
+					pagesBox.innerHTML = '';
+					var width = viewer.clientWidth - 20;
+					var dpr = window.devicePixelRatio || 1;
+
+					for (var i = 1; i <= pdfDoc.numPages; i++) {
+						var page = await pdfDoc.getPage(i);
+						if (token !== renderToken) return;
+
+						var base = page.getViewport({ scale: 1 });
+						var scale = width / base.width;
+						var vp = page.getViewport({ scale: scale * dpr });
+
+						var canvas = document.createElement('canvas');
+						canvas.width = vp.width;
+						canvas.height = vp.height;
+						canvas.style.width = (vp.width / dpr) + 'px';
+						canvas.style.height = (vp.height / dpr) + 'px';
+						pagesBox.appendChild(canvas);
+
+						await page.render({ canvasContext: canvas.getContext('2d'), viewport: vp }).promise;
+					}
+				}
+
+				pdfjsLib.getDocument(PDF_URL).promise.then(function (pdf) {
+					pdfDoc = pdf;
+					statusEl.style.display = 'none';
+					renderAll();
+				}).catch(function (err) {
+					statusEl.textContent = 'Failed to load PDF: ' + err.message;
+				});
+
+				var resizeTimer;
+				window.addEventListener('resize', function () {
+					if (!pdfDoc) return;
+					clearTimeout(resizeTimer);
+					resizeTimer = setTimeout(renderAll, 300);
+				});
+			</script>
+			<script src="../../../../../assets/js/jquery.min.js"></script> <!-- 7th -->
+			<script src="../../../../../assets/js/browser.min.js"></script> <!-- 8th -->
+			<script src="../../../../../assets/js/breakpoints.min.js"></script> <!-- 9th -->
+			<script src="../../../../../assets/js/util.js"></script> <!-- 10th -->
+			<script src="../../../../../assets/js/main.js"></script> <!-- 11th -->
+	</body>
+</html>

@@ -48,11 +48,15 @@
 							
 							<p><b>TOTAL ITEMS:</b>&nbsp;<font color="red" id="items"></font></p>	
 							
+							<div class="categories">
+								<button onclick="shuffleList()">SHUFFLE</button>
+							</div>
+	
 							<label for="column-select">HIDDEN COLUMN:</label>	
 							<select id="column-select" onchange="highlightColumn()" style="width: 150px;margin: 0 auto;">
 							<!-- Column options will be inserted here -->
 							</select>
-
+							
 							<b>CURRENT PAGE:</b>
 							<div class="pagination">
 								<button onclick="prevPage()"><<</button>

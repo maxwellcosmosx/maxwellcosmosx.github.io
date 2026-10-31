@@ -1,5 +1,6 @@
 list = [
 [1,'barely','','勉强'],
+[820,"de facto","","He runs the company de facto, even though his brother is the CEO.","事实上"],
 [1,'completely','altogether','完完全全'],
 [1,'casually','','顺便地'],
 [1,'mistakenly','','失误地'],

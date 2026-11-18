@@ -44,6 +44,7 @@ list = [
 [1,"flowers bloom in the sunlight","","",""],
 [1,"The apple trees blossom in April.","","",""],
 [1,"a bomb blows up","","",""],
+[130,"let's assume that dc.","let's suppose that dc.","","假设.."],
 [1,"If it were not for you, I'd be lost.","","",""],
 [1,"If it weren't for the police, he'd get away with it.","","",""],
 [1,"If it were not for cameras, nobody would know what happened.","","",""],
